@@ -10,5 +10,11 @@ namespace MaMuTh.MusicDataObject
 	{
 		public string Name;
 		public List<NoteData> Notes;
+
+		public Channel(string name, List<NoteData> notes )
+		{
+			Name = name;
+			Notes = notes;
+		}
 	}
 }

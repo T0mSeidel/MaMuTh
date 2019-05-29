@@ -10,6 +10,13 @@ namespace MaMuTh.MusicDataObject
 	{
 		public int Numerator; //Zähler
 		public int Denominator; //Nenner
-		public int ValidAt; //Gültig ab 
+		public float ValidAt; //Gültig ab 
+
+		public TimeSignature(int numerator, int denominator, float validAt )
+		{
+			Numerator = numerator;
+			Denominator = denominator;
+			ValidAt = validAt;
+		}
 	}
 }

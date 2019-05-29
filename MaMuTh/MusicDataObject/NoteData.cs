@@ -13,7 +13,16 @@ namespace MaMuTh.MusicDataObject
 		public float R;
 		public float Duration;  //float? oder eigene Einheit? Zählweise?
 		public float Onset;
-		public int Dynamics;	//Oder Enum wie in Enums.cs
+		public int Dynamics;	
 
+		public NoteData(float p, float s, float r, float duration, float onset, int dynamics)
+		{
+			P = p;
+			S = s;
+			R = r;
+			Duration = duration;
+			Onset = onset;
+			Dynamics = dynamics;
+		}
 	}
 }

@@ -10,13 +10,13 @@ namespace MaMuTh
 	{
 		public Pitch Pitch;
 		public EulerPoint EulerPoint;
-		public Dynamics Dynamics;
+		public int Dynamics;
 		public float Duration;
 		public float Onset;
 
 		private Instrument Instrument; //vllt raus
 
-		public Note(float frequency, Dynamics dynamics, float duration, float onset, 
+		public Note(float frequency, int dynamics, float duration, float onset, 
 			Composition composition, Instrument instrument)
 		{
 			//own members

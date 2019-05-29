@@ -9,6 +9,12 @@ namespace MaMuTh.MusicDataObject
 	class TempoIndication
 	{
 		public int Tempo;
-		public int ValidAt;
+		public float ValidAt;
+		
+		public TempoIndication(int tempo, float validAt)
+		{
+			Tempo = tempo;
+			ValidAt = validAt;
+		}
 	}
 }
