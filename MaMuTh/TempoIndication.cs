@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaMuTh.MusicDataObject
+namespace MaMuTh
 {
 	class TempoIndication
-	{
+	{ 
 		public int Tempo;
-		public float ValidAt;
-		
-		public TempoIndication(int tempo, float validAt)
+		public double ValidAt;
+
+		public TempoIndication( int tempo, double validAt )
 		{
 			Tempo = tempo;
 			ValidAt = validAt;
-		}
+		}	
 	}
 }

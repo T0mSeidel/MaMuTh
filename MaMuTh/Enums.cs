@@ -8,8 +8,11 @@ namespace MaMuTh
 {
 	enum Temperament
 	{
-		JustIntonation = 0,
-
+		Default = 0,
+		WellTemperament = 1,
+		JustIntonation = 2,
+		PythagoreanTuning = 3,
+		EqualTemperament = 4
 	}
 
 	enum Dynamics

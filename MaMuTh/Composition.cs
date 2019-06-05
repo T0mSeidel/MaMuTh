@@ -8,21 +8,22 @@ namespace MaMuTh
 {
 	class Composition
 	{
-		public int Tempo;
-		public int BaseFrequency; //oder float?
-		public Temperament Temperament;
+		private int[] Multiplicator;
 
-		public int[] Multiplicator; // 2^p+*3^s*5^r*n^q
+		public List<TempoIndication> Tempo;
+		public List<TimeSignature> TimeSignatures;
+		public int BaseFrequency;
+		public Temperament Temperament;
 		public List<Instrument> Instruments;
 
-		public Composition(int tempo, int baseFrequency, Temperament temperament, 
-			int[] multiplicator, List<Instrument> instruments)
+		public Composition(Temperament temperament, int baseFrequency, List<TempoIndication> tempi, 
+			List<TimeSignature> timeSignatures, List<Instrument> instruments)
 		{
-			Tempo = tempo;
+			Tempo = tempi;
+			TimeSignatures = timeSignatures;
+			Instruments = instruments;
 			BaseFrequency = baseFrequency;
 			Temperament = temperament;
-			Multiplicator = multiplicator;
-			Instruments = instruments;
 		}
 	}
 }

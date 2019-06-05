@@ -3,23 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Mehroz;
 
 namespace MaMuTh.MusicDataObject
 {
 	class NoteData
 	{
-		public float P;			//float? Rational mit Zähler/Nenner?
-		public float S;
-		public float R;
-		public float Duration;  //float? oder eigene Einheit? Zählweise?
-		public float Onset;
+		public Fraction[] Exponents;
+		public Fraction Duration;
+		public Fraction Onset;
 		public int Dynamics;	
 
-		public NoteData(float p, float s, float r, float duration, float onset, int dynamics)
+		public NoteData(Fraction[] exponents, Fraction duration, Fraction onset, int dynamics)
 		{
-			P = p;
-			S = s;
-			R = r;
+			Exponents = exponents;
 			Duration = duration;
 			Onset = onset;
 			Dynamics = dynamics;

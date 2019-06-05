@@ -10,14 +10,14 @@ namespace MaMuTh.MusicDataObject
 	{
 		public TemperamentDataObject Temperament;
 		public int BaseFrequency;
-		public List<TimeSignature> TimeSignatures;
-		public List<TempoIndication> TempoIndications;
+		public List<TimeSignatureMDO> TimeSignatures;
+		public List<TempoIndicationMDO> TempoIndications;
 		public List<Channel> Channels;
-		public float TotalDuration;
+		public double TotalDuration;
 		//globales Zeitmaß ist ein Floatwert
 
 		public MusicDataObject(TemperamentDataObject temperament, int baseFrequency,
-			List<TimeSignature> timeSignatures, List<TempoIndication> tempoIndications, List<Channel> channels)
+			List<TimeSignatureMDO> timeSignatures, List<TempoIndicationMDO> tempoIndications, List<Channel> channels)
 		{
 			Temperament = temperament;
 			BaseFrequency = baseFrequency;
@@ -28,16 +28,18 @@ namespace MaMuTh.MusicDataObject
 
 		public void CalculateTotalDuration()
 		{
-			float totalDuration = 0f;
+			double totalDuration = 0;
 
 			foreach(Channel channel in Channels )
 			{
 				NoteData latestNote = channel.Notes.Find( y => ( y.Onset + y.Duration ) > totalDuration );
 				if( latestNote != null )
 				{
-					totalDuration = latestNote.Onset + latestNote.Duration;
+					totalDuration = (latestNote.Onset + latestNote.Duration).ToDouble();
 				}
 			}
+
+			TotalDuration = totalDuration;
 		}
 
 	}

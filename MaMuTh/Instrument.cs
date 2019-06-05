@@ -15,12 +15,11 @@ namespace MaMuTh
 		{
 			Name = name;
 			Notes = notes;
-		}
-
-		public Instrument(string name )
-		{
-			Name = name;
-			Notes = null;
+			
+			foreach(Note note in Notes )
+			{
+				note.SetInstrument( this );
+			}
 		}
 	}
 }

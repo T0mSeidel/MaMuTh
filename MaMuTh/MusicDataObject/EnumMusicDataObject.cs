@@ -8,9 +8,10 @@ namespace MaMuTh.MusicDataObject
 {
 		enum TemperamentDataObject
 		{
-			WellTemperament = 0,
-			JustIntonation = 1,
-			PythagoreanTuning = 2,
-			EqualTemperament = 3
+			Default = 0,
+			WellTemperament = 1,
+			JustIntonation = 2,
+			PythagoreanTuning = 3,
+			EqualTemperament = 4
 		}
 }
