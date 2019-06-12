@@ -10,18 +10,18 @@ namespace MaMuTh
 	class TimeSignature
 	{
 		public Fraction Fraction { get; set; }
-		public double ValidAt { get; set; } //Gültig ab 
+		public Fraction ValidAt { get; set; } //Gültig ab 
 
-		public TimeSignature( int numerator, int denominator, double validAt )
+		public TimeSignature( int numerator, int denominator, int validAtNumerator, int validAtDenominator )
 		{
 			Fraction = new Fraction( numerator, denominator );
-			ValidAt = validAt;
+			ValidAt = new Fraction( validAtNumerator, validAtDenominator);
 		}
 
-		public TimeSignature( Fraction fraction, double validAt )
+		public TimeSignature( Fraction fraction, Fraction validAt )
 		{
 			Fraction = new Fraction( fraction.Numerator, fraction.Denominator );
-			ValidAt = validAt;
+			ValidAt = new Fraction( validAt.Numerator, validAt.Denominator);
 		}
 	}
 }

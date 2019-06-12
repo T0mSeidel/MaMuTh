@@ -10,12 +10,18 @@ namespace MaMuTh.MusicDataObject
 	class TimeSignatureMDO
 	{
 		public Fraction Fraction { get; set; }
-		public double ValidAt { get; set; } //Gültig ab 
+		public Fraction ValidAt { get; set; } //Gültig ab 
 
-		public TimeSignatureMDO(int numerator, int denominator, double validAt )
+		public TimeSignatureMDO(int numerator, int denominator, int validAtNumerator, int validAtDenominator )
 		{
 			Fraction = new Fraction( numerator, denominator );
-			ValidAt = validAt;
+			ValidAt = new Fraction( validAtNumerator, validAtDenominator );
+		}
+
+		public TimeSignatureMDO( int numerator, int denominator, Fraction validAt )
+		{
+			Fraction = new Fraction( numerator, denominator );
+			ValidAt = new Fraction( validAt.Numerator, validAt.Denominator );
 		}
 	}
 }
