@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh.MusicDataObject
 {
-		enum TemperamentDataObject
+		public enum TemperamentDataObject
 		{
 			Default = 0,
 			WellTemperament = 1,

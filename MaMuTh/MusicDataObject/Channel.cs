@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh.MusicDataObject
 {
-	class Channel
+	public class Channel
 	{
 		public string Name;
 		public List<NoteData> Notes;

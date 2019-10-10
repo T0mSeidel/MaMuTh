@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh.MusicDataObject
 {
-	class TempoIndicationMDO
+	public class TempoIndicationMDO
 	{
 		public int Tempo { get; set; }
 		public Fraction ValidAt { get; set; }

@@ -21,5 +21,19 @@ namespace MaMuTh
 				note.SetInstrument( this );
 			}
 		}
+
+		//###Methods
+		//##Information
+
+		public void PrintInstrumentInformation()
+		{
+			Console.WriteLine( "> Name: " + Name );
+			Console.WriteLine( " Note count: " + Notes.Count );
+			for(int i=0; i<Notes.Count; i++ )
+			{
+				Console.WriteLine( "> Note #" + i.ToString() );
+				Notes[ i ].PrintNoteInformation();
+			}
+		}
 	}
 }

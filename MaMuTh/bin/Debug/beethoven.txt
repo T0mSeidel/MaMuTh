@@ -1,0 +1,3581 @@
+Base frequency: 440
+Temperament: Default
+TempoIndication #0
+> : 50 - Valid at 0
+TempoIndication #1
+> : 46 - Valid at 7/2
+TempoIndication #2
+> : 45 - Valid at 43/12
+TempoIndication #3
+> : 46 - Valid at 11/3
+TempoIndication #4
+> : 50 - Valid at 4
+TempoIndication #5
+> : 46 - Valid at 27/2
+TempoIndication #6
+> : 45 - Valid at 163/12
+TempoIndication #7
+> : 46 - Valid at 41/3
+TempoIndication #8
+> : 50 - Valid at 14
+TempoIndication #9
+> : 46 - Valid at 73/4
+TempoIndication #10
+> : 45 - Valid at 55/3
+TempoIndication #11
+> : 46 - Valid at 221/12
+TempoIndication #12
+> : 50 - Valid at 75/4
+TempoIndication #13
+> : 48 - Valid at 21
+TempoIndication #14
+> : 45 - Valid at 85/4
+TempoIndication #15
+> : 42 - Valid at 43/2
+TempoIndication #16
+> : 42 - Valid at 87/4
+TempoIndication #17
+> : 40 - Valid at 131/6
+TempoIndication #18
+> : 40 - Valid at 263/12
+TempoIndication #19
+> : 50 - Valid at 22
+TempoIndication #20
+> : 46 - Valid at 73/2
+TempoIndication #21
+> : 45 - Valid at 439/12
+TempoIndication #22
+> : 46 - Valid at 110/3
+TempoIndication #23
+> : 50 - Valid at 37
+TempoIndication #24
+> : 46 - Valid at 229/6
+TempoIndication #25
+> : 45 - Valid at 153/4
+TempoIndication #26
+> : 46 - Valid at 115/3
+TempoIndication #27
+> : 50 - Valid at 461/12
+TempoIndication #28
+> : 48 - Valid at 40
+TempoIndication #29
+> : 45 - Valid at 161/4
+TempoIndication #30
+> : 40 - Valid at 81/2
+TempoIndication #31
+> : 38 - Valid at 163/4
+TempoIndication #32
+> : 45 - Valid at 41
+TempoIndication #33
+> : 45 - Valid at 497/12
+TempoIndication #34
+> : 46 - Valid at 83/2
+TempoIndication #35
+> : 48 - Valid at 499/12
+TempoIndication #36
+> : 48 - Valid at 125/3
+TempoIndication #37
+> : 50 - Valid at 167/4
+TempoIndication #38
+> : 46 - Valid at 115/2
+TempoIndication #39
+> : 45 - Valid at 691/12
+TempoIndication #40
+> : 46 - Valid at 173/3
+TempoIndication #41
+> : 50 - Valid at 231/4
+TempoIndication #42
+> : 46 - Valid at 235/4
+TempoIndication #43
+> : 45 - Valid at 353/6
+TempoIndication #44
+> : 42 - Valid at 707/12
+TempoIndication #45
+> : 46 - Valid at 59
+TempoIndication #46
+> : 50 - Valid at 61
+TempoIndication #47
+> : 45 - Valid at 251/4
+TempoIndication #48
+> : 40 - Valid at 377/6
+TempoIndication #49
+> : 34 - Valid at 755/12
+TempoIndication #50
+> : 50 - Valid at 63
+TempoIndication #51
+> : 45 - Valid at 259/4
+TempoIndication #52
+> : 40 - Valid at 389/6
+TempoIndication #53
+> : 34 - Valid at 779/12
+TempoIndication #54
+> : 45 - Valid at 65
+TempoIndication #55
+> : 42 - Valid at 131/2
+TempoIndication #56
+> : 40 - Valid at 66
+TempoIndication #57
+> : 34 - Valid at 267/4
+TempoIndication #58
+> : 32 - Valid at 401/6
+TempoIndication #59
+> : 30 - Valid at 803/12
+TempoIndication #60
+> : 25 - Valid at 67
+Instruments count7
+> Instrument #0
+> Name: 1st Mvmt Sonata No.14, Opus 27, No.2
+ Note count: 722
+> Note #0
+Onset: 1/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #1
+Onset: 1/6 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #2
+Onset: 1/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #3
+Onset: 5/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #4
+Onset: 7/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #5
+Onset: 2/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #6
+Onset: 5/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #7
+Onset: 11/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #8
+Onset: 13/12 Duration: 41/480 Dynamics: 27
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #9
+Onset: 93/80 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #10
+Onset: 4/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #11
+Onset: 17/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #12
+Onset: 19/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #13
+Onset: 5/3 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #14
+Onset: 11/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #15
+Onset: 23/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #16
+Onset: 2 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-1 S 0 R 0
+> Note #17
+Onset: 25/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #18
+Onset: 13/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #19
+Onset: 9/4 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1 S 0 R 0
+> Note #20
+Onset: 7/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #21
+Onset: 29/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #22
+Onset: 5/2 Duration: 13/80 Dynamics: 36
+EulerPoint3D: P-1 S 0 R 0
+> Note #23
+Onset: 31/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #24
+Onset: 8/3 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #25
+Onset: 11/4 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1 S 0 R 0
+> Note #26
+Onset: 17/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #27
+Onset: 35/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #28
+Onset: 37/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #29
+Onset: 19/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #30
+Onset: 10/3 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #31
+Onset: 41/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #32
+Onset: 43/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #33
+Onset: 11/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #34
+Onset: 23/6 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #35
+Onset: 47/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #36
+Onset: 25/6 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #37
+Onset: 13/3 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #38
+Onset: 53/12 Duration: 1/12 Dynamics: 21
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #39
+Onset: 55/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #40
+Onset: 14/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #41
+Onset: 19/4 Duration: 3/16 Dynamics: 55
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #42
+Onset: 29/6 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #43
+Onset: 59/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #44
+Onset: 79/16 Duration: 1/16 Dynamics: 48
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #45
+Onset: 5 Duration: 359/480 Dynamics: 55
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #46
+Onset: 61/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #47
+Onset: 31/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #48
+Onset: 16/3 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #49
+Onset: 65/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #50
+Onset: 67/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #51
+Onset: 17/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #52
+Onset: 23/4 Duration: 3/16 Dynamics: 49
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #53
+Onset: 35/6 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #54
+Onset: 71/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #55
+Onset: 95/16 Duration: 1/16 Dynamics: 52
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #56
+Onset: 6 Duration: 239/480 Dynamics: 61
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #57
+Onset: 73/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #58
+Onset: 37/6 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #59
+Onset: 19/3 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #60
+Onset: 77/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #61
+Onset: 13/2 Duration: 41/480 Dynamics: 38
+EulerPoint3D: P-1 S 0 R 0
+> Note #62
+Onset: 13/2 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P0 S 0 R 0
+> Note #63
+Onset: 79/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #64
+Onset: 20/3 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #65
+Onset: 27/4 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1 S 0 R 0
+> Note #66
+Onset: 41/6 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #67
+Onset: 83/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #68
+Onset: 7 Duration: 239/480 Dynamics: 51
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #69
+Onset: 85/12 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #70
+Onset: 43/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #71
+Onset: 22/3 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #72
+Onset: 89/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #73
+Onset: 1799/240 Duration: 17/160 Dynamics: 53
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #74
+Onset: 15/2 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1 S 0 R 0
+> Note #75
+Onset: 91/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #76
+Onset: 23/3 Duration: 1/12 Dynamics: 18
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #77
+Onset: 371/48 Duration: 3/160 Dynamics: 40
+EulerPoint3D: P-1 S 0 R 0
+> Note #78
+Onset: 31/4 Duration: 119/480 Dynamics: 48
+EulerPoint3D: P1/6 S 0 R 0
+> Note #79
+Onset: 47/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #80
+Onset: 95/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #81
+Onset: 8 Duration: 119/480 Dynamics: 51
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #82
+Onset: 97/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #83
+Onset: 49/6 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #84
+Onset: 25/3 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #85
+Onset: 101/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #86
+Onset: 103/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #87
+Onset: 26/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #88
+Onset: 53/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #89
+Onset: 107/12 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #90
+Onset: 109/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #91
+Onset: 55/6 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #92
+Onset: 28/3 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #93
+Onset: 113/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #94
+Onset: 115/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #95
+Onset: 29/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #96
+Onset: 39/4 Duration: 3/16 Dynamics: 58
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #97
+Onset: 59/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #98
+Onset: 119/12 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #99
+Onset: 159/16 Duration: 1/16 Dynamics: 37
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #100
+Onset: 10 Duration: 359/480 Dynamics: 48
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #101
+Onset: 121/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #102
+Onset: 61/6 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #103
+Onset: 31/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #104
+Onset: 125/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #105
+Onset: 127/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #106
+Onset: 32/3 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #107
+Onset: 43/4 Duration: 3/16 Dynamics: 55
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #108
+Onset: 65/6 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #109
+Onset: 131/12 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #110
+Onset: 175/16 Duration: 1/16 Dynamics: 56
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #111
+Onset: 11 Duration: 359/480 Dynamics: 53
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #112
+Onset: 133/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #113
+Onset: 67/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #114
+Onset: 34/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #115
+Onset: 137/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #116
+Onset: 139/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #117
+Onset: 35/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #118
+Onset: 47/4 Duration: 119/480 Dynamics: 60
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #119
+Onset: 71/6 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #120
+Onset: 143/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #121
+Onset: 12 Duration: 239/480 Dynamics: 43
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #122
+Onset: 145/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #123
+Onset: 73/6 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #124
+Onset: 37/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #125
+Onset: 149/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #126
+Onset: 25/2 Duration: 119/480 Dynamics: 58
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #127
+Onset: 151/12 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #128
+Onset: 38/3 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #129
+Onset: 51/4 Duration: 119/480 Dynamics: 54
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #130
+Onset: 77/6 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #131
+Onset: 155/12 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #132
+Onset: 13 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #133
+Onset: 157/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #134
+Onset: 79/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #135
+Onset: 40/3 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #136
+Onset: 161/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #137
+Onset: 27/2 Duration: 241/480 Dynamics: 48
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #138
+Onset: 163/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-11/12 S 0 R 0
+> Note #139
+Onset: 41/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #140
+Onset: 83/6 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-11/12 S 0 R 0
+> Note #141
+Onset: 167/12 Duration: 41/480 Dynamics: 30
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #142
+Onset: 14 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #143
+Onset: 169/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #144
+Onset: 85/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #145
+Onset: 57/4 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #146
+Onset: 43/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #147
+Onset: 173/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #148
+Onset: 29/2 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #149
+Onset: 175/12 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #150
+Onset: 44/3 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #151
+Onset: 59/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #152
+Onset: 59/4 Duration: 119/480 Dynamics: 66
+EulerPoint3D: P1/6 S 0 R 0
+> Note #153
+Onset: 89/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #154
+Onset: 179/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #155
+Onset: 719/48 Duration: 49/480 Dynamics: 49
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #156
+Onset: 15 Duration: 359/480 Dynamics: 82
+EulerPoint3D: P1/4 S 0 R 0
+> Note #157
+Onset: 181/12 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #158
+Onset: 91/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #159
+Onset: 61/4 Duration: 47/240 Dynamics: 42
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #160
+Onset: 3679/240 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #161
+Onset: 185/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #162
+Onset: 31/2 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #163
+Onset: 187/12 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #164
+Onset: 47/3 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #165
+Onset: 63/4 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #166
+Onset: 63/4 Duration: 119/480 Dynamics: 54
+EulerPoint3D: P1/12 S 0 R 0
+> Note #167
+Onset: 95/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #168
+Onset: 191/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #169
+Onset: 16 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #170
+Onset: 16 Duration: 359/480 Dynamics: 44
+EulerPoint3D: P1/6 S 0 R 0
+> Note #171
+Onset: 193/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #172
+Onset: 97/6 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #173
+Onset: 65/4 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #174
+Onset: 49/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #175
+Onset: 197/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #176
+Onset: 33/2 Duration: 1/12 Dynamics: 19
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #177
+Onset: 199/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #178
+Onset: 50/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #179
+Onset: 67/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #180
+Onset: 67/4 Duration: 119/480 Dynamics: 62
+EulerPoint3D: P1/6 S 0 R 0
+> Note #181
+Onset: 101/6 Duration: 1/10 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #182
+Onset: 203/12 Duration: 23/480 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #183
+Onset: 815/48 Duration: 5/48 Dynamics: 34
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #184
+Onset: 17 Duration: 359/480 Dynamics: 76
+EulerPoint3D: P1/4 S 0 R 0
+> Note #185
+Onset: 205/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #186
+Onset: 103/6 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #187
+Onset: 69/4 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #188
+Onset: 52/3 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #189
+Onset: 209/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #190
+Onset: 35/2 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #191
+Onset: 211/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #192
+Onset: 53/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #193
+Onset: 71/4 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #194
+Onset: 71/4 Duration: 119/480 Dynamics: 58
+EulerPoint3D: P1/12 S 0 R 0
+> Note #195
+Onset: 107/6 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #196
+Onset: 215/12 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #197
+Onset: 18 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #198
+Onset: 18 Duration: 239/480 Dynamics: 47
+EulerPoint3D: P1/6 S 0 R 0
+> Note #199
+Onset: 217/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #200
+Onset: 109/6 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #201
+Onset: 73/4 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #202
+Onset: 55/3 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #203
+Onset: 221/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #204
+Onset: 37/2 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #205
+Onset: 37/2 Duration: 239/480 Dynamics: 41
+EulerPoint3D: P1/6 S 0 R 0
+> Note #206
+Onset: 223/12 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #207
+Onset: 56/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #208
+Onset: 75/4 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #209
+Onset: 113/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #210
+Onset: 227/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #211
+Onset: 19 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #212
+Onset: 19 Duration: 239/480 Dynamics: 45
+EulerPoint3D: P1/6 S 0 R 0
+> Note #213
+Onset: 229/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #214
+Onset: 115/6 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #215
+Onset: 77/4 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #216
+Onset: 58/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #217
+Onset: 233/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #218
+Onset: 39/2 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1 S 0 R 0
+> Note #219
+Onset: 39/2 Duration: 239/480 Dynamics: 60
+EulerPoint3D: P0 S 0 R 0
+> Note #220
+Onset: 235/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #221
+Onset: 59/3 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #222
+Onset: 79/4 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1 S 0 R 0
+> Note #223
+Onset: 119/6 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #224
+Onset: 239/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #225
+Onset: 20 Duration: 239/480 Dynamics: 67
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #226
+Onset: 241/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #227
+Onset: 121/6 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #228
+Onset: 61/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #229
+Onset: 245/12 Duration: 1/12 Dynamics: 58
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #230
+Onset: 41/2 Duration: 239/480 Dynamics: 62
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #231
+Onset: 247/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1 S 0 R 0
+> Note #232
+Onset: 62/3 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #233
+Onset: 125/6 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-1 S 0 R 0
+> Note #234
+Onset: 251/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #235
+Onset: 21 Duration: 239/480 Dynamics: 32
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #236
+Onset: 127/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1 S 0 R 0
+> Note #237
+Onset: 257/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1 S 0 R 0
+> Note #238
+Onset: 43/2 Duration: 119/480 Dynamics: 46
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #239
+Onset: 87/4 Duration: 119/480 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #240
+Onset: 265/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1 S 0 R 0
+> Note #241
+Onset: 133/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #242
+Onset: 89/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1 S 0 R 0
+> Note #243
+Onset: 67/3 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #244
+Onset: 269/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #245
+Onset: 45/2 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #246
+Onset: 271/12 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #247
+Onset: 68/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P0 S 0 R 0
+> Note #248
+Onset: 91/4 Duration: 1/12 Dynamics: 64
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #249
+Onset: 91/4 Duration: 3/16 Dynamics: 71
+EulerPoint3D: P1/3 S 0 R 0
+> Note #250
+Onset: 137/6 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #251
+Onset: 275/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P0 S 0 R 0
+> Note #252
+Onset: 367/16 Duration: 1/16 Dynamics: 54
+EulerPoint3D: P1/3 S 0 R 0
+> Note #253
+Onset: 23 Duration: 41/480 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #254
+Onset: 23 Duration: 239/480 Dynamics: 61
+EulerPoint3D: P1/3 S 0 R 0
+> Note #255
+Onset: 277/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #256
+Onset: 139/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P1/6 S 0 R 0
+> Note #257
+Onset: 93/4 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #258
+Onset: 70/3 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #259
+Onset: 281/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P1/6 S 0 R 0
+> Note #260
+Onset: 47/2 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #261
+Onset: 283/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #262
+Onset: 71/3 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P1/6 S 0 R 0
+> Note #263
+Onset: 95/4 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #264
+Onset: 95/4 Duration: 3/16 Dynamics: 57
+EulerPoint3D: P1/3 S 0 R 0
+> Note #265
+Onset: 143/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #266
+Onset: 287/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P1/6 S 0 R 0
+> Note #267
+Onset: 383/16 Duration: 1/16 Dynamics: 46
+EulerPoint3D: P1/3 S 0 R 0
+> Note #268
+Onset: 24 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #269
+Onset: 24 Duration: 239/480 Dynamics: 61
+EulerPoint3D: P1/3 S 0 R 0
+> Note #270
+Onset: 289/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #271
+Onset: 145/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P0 S 0 R 0
+> Note #272
+Onset: 97/4 Duration: 119/480 Dynamics: 46
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #273
+Onset: 73/3 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #274
+Onset: 293/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P0 S 0 R 0
+> Note #275
+Onset: 49/2 Duration: 1/12 Dynamics: 63
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #276
+Onset: 49/2 Duration: 119/480 Dynamics: 68
+EulerPoint3D: P1/4 S 0 R 0
+> Note #277
+Onset: 295/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #278
+Onset: 74/3 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P0 S 0 R 0
+> Note #279
+Onset: 99/4 Duration: 1/12 Dynamics: 69
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #280
+Onset: 99/4 Duration: 119/480 Dynamics: 81
+EulerPoint3D: P1/3 S 0 R 0
+> Note #281
+Onset: 149/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #282
+Onset: 299/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P0 S 0 R 0
+> Note #283
+Onset: 25 Duration: 1/12 Dynamics: 64
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #284
+Onset: 25 Duration: 359/480 Dynamics: 78
+EulerPoint3D: P1/2 S 0 R 0
+> Note #285
+Onset: 301/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #286
+Onset: 151/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #287
+Onset: 101/4 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #288
+Onset: 76/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #289
+Onset: 305/12 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #290
+Onset: 51/2 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #291
+Onset: 307/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #292
+Onset: 77/3 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #293
+Onset: 103/4 Duration: 1/12 Dynamics: 69
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #294
+Onset: 103/4 Duration: 119/480 Dynamics: 71
+EulerPoint3D: P1/2 S 0 R 0
+> Note #295
+Onset: 155/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #296
+Onset: 311/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #297
+Onset: 26 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #298
+Onset: 26 Duration: 359/480 Dynamics: 71
+EulerPoint3D: P7/12 S 0 R 0
+> Note #299
+Onset: 313/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #300
+Onset: 157/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P1/3 S 0 R 0
+> Note #301
+Onset: 105/4 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #302
+Onset: 79/3 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #303
+Onset: 317/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P1/3 S 0 R 0
+> Note #304
+Onset: 53/2 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #305
+Onset: 53/2 Duration: 119/480 Dynamics: 56
+EulerPoint3D: P1/2 S 0 R 0
+> Note #306
+Onset: 319/12 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #307
+Onset: 80/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P0 S 0 R 0
+> Note #308
+Onset: 107/4 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #309
+Onset: 107/4 Duration: 119/480 Dynamics: 71
+EulerPoint3D: P1/3 S 0 R 0
+> Note #310
+Onset: 161/6 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #311
+Onset: 323/12 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P1/12 S 0 R 0
+> Note #312
+Onset: 27 Duration: 119/480 Dynamics: 41
+EulerPoint3D: P1/4 S 0 R 0
+> Note #313
+Onset: 325/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #314
+Onset: 163/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #315
+Onset: 109/4 Duration: 119/480 Dynamics: 58
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #316
+Onset: 82/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #317
+Onset: 329/12 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #318
+Onset: 55/2 Duration: 119/480 Dynamics: 66
+EulerPoint3D: P0 S 0 R 0
+> Note #319
+Onset: 6619/240 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #320
+Onset: 83/3 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #321
+Onset: 111/4 Duration: 119/480 Dynamics: 43
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #322
+Onset: 6679/240 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #323
+Onset: 335/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #324
+Onset: 57/2 Duration: 119/480 Dynamics: 74
+EulerPoint3D: P-1 S 0 R 0
+> Note #325
+Onset: 349/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #326
+Onset: 2333/80 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #327
+Onset: 117/4 Duration: 119/480 Dynamics: 64
+EulerPoint3D: P1/3 S 0 R 0
+> Note #328
+Onset: 88/3 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #329
+Onset: 353/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #330
+Onset: 59/2 Duration: 119/480 Dynamics: 70
+EulerPoint3D: P7/12 S 0 R 0
+> Note #331
+Onset: 355/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #332
+Onset: 89/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #333
+Onset: 119/4 Duration: 119/480 Dynamics: 51
+EulerPoint3D: P1/3 S 0 R 0
+> Note #334
+Onset: 7159/240 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #335
+Onset: 359/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #336
+Onset: 121/4 Duration: 119/480 Dynamics: 59
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #337
+Onset: 61/2 Duration: 119/480 Dynamics: 68
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #338
+Onset: 123/4 Duration: 119/480 Dynamics: 47
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #339
+Onset: 373/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1 S 0 R 0
+> Note #340
+Onset: 125/4 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #341
+Onset: 94/3 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-1 S 0 R 0
+> Note #342
+Onset: 377/12 Duration: 1/12 Dynamics: 58
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #343
+Onset: 63/2 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #344
+Onset: 379/12 Duration: 1/12 Dynamics: 50
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #345
+Onset: 95/3 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #346
+Onset: 127/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P0 S 0 R 0
+> Note #347
+Onset: 191/6 Duration: 1/12 Dynamics: 50
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #348
+Onset: 383/12 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P1/4 S 0 R 0
+> Note #349
+Onset: 385/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #350
+Onset: 129/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #351
+Onset: 97/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #352
+Onset: 389/12 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #353
+Onset: 65/2 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #354
+Onset: 391/12 Duration: 1/12 Dynamics: 63
+EulerPoint3D: P1/3 S 0 R 0
+> Note #355
+Onset: 98/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #356
+Onset: 131/4 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P7/12 S 0 R 0
+> Note #357
+Onset: 197/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P1/3 S 0 R 0
+> Note #358
+Onset: 395/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #359
+Onset: 33 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #360
+Onset: 397/12 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #361
+Onset: 199/6 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #362
+Onset: 133/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P1/12 S 0 R 0
+> Note #363
+Onset: 100/3 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/6 S 0 R 0
+> Note #364
+Onset: 401/12 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P1/3 S 0 R 0
+> Note #365
+Onset: 67/2 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P1/12 S 0 R 0
+> Note #366
+Onset: 403/12 Duration: 1/12 Dynamics: 66
+EulerPoint3D: P7/12 S 0 R 0
+> Note #367
+Onset: 101/3 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P1/3 S 0 R 0
+> Note #368
+Onset: 135/4 Duration: 1/12 Dynamics: 63
+EulerPoint3D: P5/6 S 0 R 0
+> Note #369
+Onset: 203/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P7/12 S 0 R 0
+> Note #370
+Onset: 407/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P13/12 S 0 R 0
+> Note #371
+Onset: 34 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #372
+Onset: 409/12 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P1/4 S 0 R 0
+> Note #373
+Onset: 205/6 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P0 S 0 R 0
+> Note #374
+Onset: 137/4 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P1/2 S 0 R 0
+> Note #375
+Onset: 103/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P1/4 S 0 R 0
+> Note #376
+Onset: 413/12 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P3/4 S 0 R 0
+> Note #377
+Onset: 69/2 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P1/2 S 0 R 0
+> Note #378
+Onset: 415/12 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P1 S 0 R 0
+> Note #379
+Onset: 104/3 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P3/4 S 0 R 0
+> Note #380
+Onset: 139/4 Duration: 1/12 Dynamics: 68
+EulerPoint3D: P5/4 S 0 R 0
+> Note #381
+Onset: 209/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P1 S 0 R 0
+> Note #382
+Onset: 419/12 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P3/2 S 0 R 0
+> Note #383
+Onset: 35 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P5/4 S 0 R 0
+> Note #384
+Onset: 421/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P3/4 S 0 R 0
+> Note #385
+Onset: 211/6 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P1 S 0 R 0
+> Note #386
+Onset: 141/4 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P1/2 S 0 R 0
+> Note #387
+Onset: 106/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P3/4 S 0 R 0
+> Note #388
+Onset: 425/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P1/4 S 0 R 0
+> Note #389
+Onset: 71/2 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P1/2 S 0 R 0
+> Note #390
+Onset: 427/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P0 S 0 R 0
+> Note #391
+Onset: 107/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P1/4 S 0 R 0
+> Note #392
+Onset: 143/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #393
+Onset: 215/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P0 S 0 R 0
+> Note #394
+Onset: 431/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #395
+Onset: 36 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #396
+Onset: 433/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #397
+Onset: 217/6 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #398
+Onset: 145/4 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-1 S 0 R 0
+> Note #399
+Onset: 109/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #400
+Onset: 73/2 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1 S 0 R 0
+> Note #401
+Onset: 443/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1 S 0 R 0
+> Note #402
+Onset: 149/4 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-1 S 0 R 0
+> Note #403
+Onset: 113/3 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1 S 0 R 0
+> Note #404
+Onset: 455/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1 S 0 R 0
+> Note #405
+Onset: 153/4 Duration: 1/12 Dynamics: 82
+EulerPoint3D: P-1 S 0 R 0
+> Note #406
+Onset: 116/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1 S 0 R 0
+> Note #407
+Onset: 467/12 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-1 S 0 R 0
+> Note #408
+Onset: 157/4 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P-1 S 0 R 0
+> Note #409
+Onset: 119/3 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #410
+Onset: 479/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #411
+Onset: 481/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1 S 0 R 0
+> Note #412
+Onset: 241/6 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #413
+Onset: 9679/240 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1 S 0 R 0
+> Note #414
+Onset: 485/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #415
+Onset: 122/3 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #416
+Onset: 491/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #417
+Onset: 247/6 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #418
+Onset: 124/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #419
+Onset: 497/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #420
+Onset: 499/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #421
+Onset: 125/3 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #422
+Onset: 167/4 Duration: 3/16 Dynamics: 44
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #423
+Onset: 251/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #424
+Onset: 503/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #425
+Onset: 629/15 Duration: 1/16 Dynamics: 60
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #426
+Onset: 42 Duration: 359/480 Dynamics: 58
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #427
+Onset: 505/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #428
+Onset: 253/6 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #429
+Onset: 127/3 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #430
+Onset: 509/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #431
+Onset: 511/12 Duration: 1/12 Dynamics: 17
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #432
+Onset: 128/3 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #433
+Onset: 171/4 Duration: 3/16 Dynamics: 53
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #434
+Onset: 257/6 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #435
+Onset: 515/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #436
+Onset: 687/16 Duration: 1/16 Dynamics: 49
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #437
+Onset: 43 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #438
+Onset: 517/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #439
+Onset: 259/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #440
+Onset: 130/3 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #441
+Onset: 521/12 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #442
+Onset: 87/2 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1 S 0 R 0
+> Note #443
+Onset: 87/2 Duration: 239/480 Dynamics: 59
+EulerPoint3D: P0 S 0 R 0
+> Note #444
+Onset: 523/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #445
+Onset: 131/3 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #446
+Onset: 175/4 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1 S 0 R 0
+> Note #447
+Onset: 263/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #448
+Onset: 527/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #449
+Onset: 44 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #450
+Onset: 529/12 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #451
+Onset: 265/6 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #452
+Onset: 133/3 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #453
+Onset: 533/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #454
+Onset: 89/2 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-1 S 0 R 0
+> Note #455
+Onset: 89/2 Duration: 119/480 Dynamics: 61
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #456
+Onset: 535/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #457
+Onset: 134/3 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #458
+Onset: 7157/160 Duration: 49/480 Dynamics: 35
+EulerPoint3D: P-1 S 0 R 0
+> Note #459
+Onset: 179/4 Duration: 119/480 Dynamics: 56
+EulerPoint3D: P1/6 S 0 R 0
+> Note #460
+Onset: 269/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #461
+Onset: 539/12 Duration: 1/12 Dynamics: 50
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #462
+Onset: 45 Duration: 1/6 Dynamics: 40
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #463
+Onset: 541/12 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #464
+Onset: 271/6 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #465
+Onset: 181/4 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #466
+Onset: 136/3 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #467
+Onset: 545/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #468
+Onset: 91/2 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #469
+Onset: 547/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #470
+Onset: 137/3 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #471
+Onset: 183/4 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #472
+Onset: 183/4 Duration: 3/16 Dynamics: 63
+EulerPoint3D: P1/6 S 0 R 0
+> Note #473
+Onset: 275/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #474
+Onset: 551/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #475
+Onset: 735/16 Duration: 1/16 Dynamics: 36
+EulerPoint3D: P1/6 S 0 R 0
+> Note #476
+Onset: 46 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #477
+Onset: 46 Duration: 359/480 Dynamics: 57
+EulerPoint3D: P1/6 S 0 R 0
+> Note #478
+Onset: 553/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #479
+Onset: 277/6 Duration: 1/12 Dynamics: 21
+EulerPoint3D: P0 S 0 R 0
+> Note #480
+Onset: 185/4 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #481
+Onset: 139/3 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #482
+Onset: 557/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P0 S 0 R 0
+> Note #483
+Onset: 93/2 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #484
+Onset: 559/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #485
+Onset: 140/3 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P0 S 0 R 0
+> Note #486
+Onset: 187/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #487
+Onset: 187/4 Duration: 3/16 Dynamics: 68
+EulerPoint3D: P1/6 S 0 R 0
+> Note #488
+Onset: 281/6 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #489
+Onset: 563/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P0 S 0 R 0
+> Note #490
+Onset: 751/16 Duration: 1/16 Dynamics: 49
+EulerPoint3D: P1/6 S 0 R 0
+> Note #491
+Onset: 47 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #492
+Onset: 47 Duration: 239/480 Dynamics: 56
+EulerPoint3D: P1/6 S 0 R 0
+> Note #493
+Onset: 11299/240 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #494
+Onset: 283/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #495
+Onset: 189/4 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #496
+Onset: 11359/240 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #497
+Onset: 569/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #498
+Onset: 95/2 Duration: 1/12 Dynamics: 70
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #499
+Onset: 95/2 Duration: 119/480 Dynamics: 75
+EulerPoint3D: P1/4 S 0 R 0
+> Note #500
+Onset: 571/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #501
+Onset: 143/3 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #502
+Onset: 191/4 Duration: 41/480 Dynamics: 49
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #503
+Onset: 191/4 Duration: 119/480 Dynamics: 78
+EulerPoint3D: P1/3 S 0 R 0
+> Note #504
+Onset: 287/6 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #505
+Onset: 575/12 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #506
+Onset: 48 Duration: 1/12 Dynamics: 65
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #507
+Onset: 48 Duration: 239/480 Dynamics: 78
+EulerPoint3D: P1/2 S 0 R 0
+> Note #508
+Onset: 577/12 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #509
+Onset: 289/6 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #510
+Onset: 193/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #511
+Onset: 145/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #512
+Onset: 581/12 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #513
+Onset: 97/2 Duration: 1/12 Dynamics: 59
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #514
+Onset: 97/2 Duration: 239/480 Dynamics: 80
+EulerPoint3D: P7/12 S 0 R 0
+> Note #515
+Onset: 583/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #516
+Onset: 146/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P1/3 S 0 R 0
+> Note #517
+Onset: 195/4 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #518
+Onset: 293/6 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #519
+Onset: 587/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P1/3 S 0 R 0
+> Note #520
+Onset: 49 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #521
+Onset: 49 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P5/12 S 0 R 0
+> Note #522
+Onset: 589/12 Duration: 1/12 Dynamics: 18
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #523
+Onset: 295/6 Duration: 1/12 Dynamics: 19
+EulerPoint3D: P0 S 0 R 0
+> Note #524
+Onset: 197/4 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-7/12 S 0 R 0
+> Note #525
+Onset: 148/3 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #526
+Onset: 593/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P0 S 0 R 0
+> Note #527
+Onset: 99/2 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #528
+Onset: 99/2 Duration: 239/480 Dynamics: 49
+EulerPoint3D: P1/4 S 0 R 0
+> Note #529
+Onset: 595/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #530
+Onset: 149/3 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #531
+Onset: 199/4 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #532
+Onset: 299/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #533
+Onset: 599/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #534
+Onset: 50 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #535
+Onset: 50 Duration: 359/480 Dynamics: 58
+EulerPoint3D: P1/3 S 0 R 0
+> Note #536
+Onset: 601/12 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #537
+Onset: 301/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #538
+Onset: 201/4 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #539
+Onset: 151/3 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #540
+Onset: 605/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #541
+Onset: 101/2 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #542
+Onset: 607/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #543
+Onset: 152/3 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #544
+Onset: 203/4 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #545
+Onset: 203/4 Duration: 119/480 Dynamics: 71
+EulerPoint3D: P1/3 S 0 R 0
+> Note #546
+Onset: 305/6 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #547
+Onset: 611/12 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #548
+Onset: 2447/48 Duration: 49/480 Dynamics: 38
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #549
+Onset: 51 Duration: 359/480 Dynamics: 64
+EulerPoint3D: P5/12 S 0 R 0
+> Note #550
+Onset: 613/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #551
+Onset: 307/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P0 S 0 R 0
+> Note #552
+Onset: 205/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #553
+Onset: 154/3 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #554
+Onset: 617/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P0 S 0 R 0
+> Note #555
+Onset: 103/2 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #556
+Onset: 103/2 Duration: 119/480 Dynamics: 70
+EulerPoint3D: P-1 S 0 R 0
+> Note #557
+Onset: 619/12 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #558
+Onset: 155/3 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P0 S 0 R 0
+> Note #559
+Onset: 207/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #560
+Onset: 207/4 Duration: 119/480 Dynamics: 60
+EulerPoint3D: P1/4 S 0 R 0
+> Note #561
+Onset: 311/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #562
+Onset: 623/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P0 S 0 R 0
+> Note #563
+Onset: 52 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #564
+Onset: 52 Duration: 359/480 Dynamics: 46
+EulerPoint3D: P1/3 S 0 R 0
+> Note #565
+Onset: 625/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #566
+Onset: 313/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #567
+Onset: 209/4 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #568
+Onset: 157/3 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #569
+Onset: 629/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #570
+Onset: 105/2 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #571
+Onset: 631/12 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #572
+Onset: 158/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #573
+Onset: 211/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #574
+Onset: 211/4 Duration: 119/480 Dynamics: 65
+EulerPoint3D: P1/3 S 0 R 0
+> Note #575
+Onset: 317/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #576
+Onset: 635/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #577
+Onset: 2543/48 Duration: 49/480 Dynamics: 44
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #578
+Onset: 53 Duration: 359/480 Dynamics: 88
+EulerPoint3D: P5/12 S 0 R 0
+> Note #579
+Onset: 637/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #580
+Onset: 319/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P0 S 0 R 0
+> Note #581
+Onset: 213/4 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #582
+Onset: 160/3 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #583
+Onset: 641/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P0 S 0 R 0
+> Note #584
+Onset: 107/2 Duration: 1/12 Dynamics: 59
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #585
+Onset: 107/2 Duration: 119/480 Dynamics: 60
+EulerPoint3D: P-1 S 0 R 0
+> Note #586
+Onset: 643/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #587
+Onset: 161/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P0 S 0 R 0
+> Note #588
+Onset: 215/4 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #589
+Onset: 215/4 Duration: 119/480 Dynamics: 58
+EulerPoint3D: P1/4 S 0 R 0
+> Note #590
+Onset: 323/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #591
+Onset: 647/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P0 S 0 R 0
+> Note #592
+Onset: 54 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #593
+Onset: 54 Duration: 239/480 Dynamics: 46
+EulerPoint3D: P1/3 S 0 R 0
+> Note #594
+Onset: 649/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #595
+Onset: 325/6 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #596
+Onset: 217/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #597
+Onset: 163/3 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/3 S 0 R 0
+> Note #598
+Onset: 653/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #599
+Onset: 109/2 Duration: 1/12 Dynamics: 18
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #600
+Onset: 109/2 Duration: 239/480 Dynamics: 57
+EulerPoint3D: P1/3 S 0 R 0
+> Note #601
+Onset: 655/12 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #602
+Onset: 164/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P0 S 0 R 0
+> Note #603
+Onset: 219/4 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #604
+Onset: 329/6 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #605
+Onset: 659/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P0 S 0 R 0
+> Note #606
+Onset: 55 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #607
+Onset: 55 Duration: 359/480 Dynamics: 60
+EulerPoint3D: P1/6 S 0 R 0
+> Note #608
+Onset: 661/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #609
+Onset: 331/6 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P0 S 0 R 0
+> Note #610
+Onset: 221/4 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #611
+Onset: 166/3 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #612
+Onset: 665/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P0 S 0 R 0
+> Note #613
+Onset: 111/2 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #614
+Onset: 667/12 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #615
+Onset: 167/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P0 S 0 R 0
+> Note #616
+Onset: 223/4 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/6 S 0 R 0
+> Note #617
+Onset: 223/4 Duration: 119/480 Dynamics: 55
+EulerPoint3D: P1/6 S 0 R 0
+> Note #618
+Onset: 335/6 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #619
+Onset: 671/12 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #620
+Onset: 56 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-1 S 0 R 0
+> Note #621
+Onset: 56 Duration: 119/480 Dynamics: 60
+EulerPoint3D: P0 S 0 R 0
+> Note #622
+Onset: 673/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #623
+Onset: 337/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #624
+Onset: 225/4 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1 S 0 R 0
+> Note #625
+Onset: 225/4 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P0 S 0 R 0
+> Note #626
+Onset: 169/3 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #627
+Onset: 677/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #628
+Onset: 113/2 Duration: 119/480 Dynamics: 68
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #629
+Onset: 679/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #630
+Onset: 170/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #631
+Onset: 227/4 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #632
+Onset: 341/6 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #633
+Onset: 683/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #634
+Onset: 57 Duration: 239/480 Dynamics: 56
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #635
+Onset: 685/12 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #636
+Onset: 343/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #637
+Onset: 172/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #638
+Onset: 689/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #639
+Onset: 115/2 Duration: 119/480 Dynamics: 67
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #640
+Onset: 691/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #641
+Onset: 173/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #642
+Onset: 231/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-1 S 0 R 0
+> Note #643
+Onset: 231/4 Duration: 119/480 Dynamics: 70
+EulerPoint3D: P0 S 0 R 0
+> Note #644
+Onset: 347/6 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #645
+Onset: 695/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #646
+Onset: 58 Duration: 239/480 Dynamics: 61
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #647
+Onset: 697/12 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #648
+Onset: 349/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #649
+Onset: 175/3 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #650
+Onset: 701/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #651
+Onset: 117/2 Duration: 119/480 Dynamics: 44
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #652
+Onset: 703/12 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #653
+Onset: 176/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #654
+Onset: 353/6 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #655
+Onset: 707/12 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #656
+Onset: 59 Duration: 119/480 Dynamics: 40
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #657
+Onset: 355/6 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #658
+Onset: 178/3 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #659
+Onset: 713/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #660
+Onset: 715/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #661
+Onset: 179/3 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #662
+Onset: 359/6 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #663
+Onset: 719/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #664
+Onset: 721/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #665
+Onset: 361/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #666
+Onset: 181/3 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #667
+Onset: 725/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #668
+Onset: 727/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #669
+Onset: 182/3 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #670
+Onset: 365/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #671
+Onset: 731/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #672
+Onset: 733/12 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #673
+Onset: 367/6 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #674
+Onset: 245/4 Duration: 1/12 Dynamics: 65
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #675
+Onset: 184/3 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #676
+Onset: 737/12 Duration: 1/12 Dynamics: 61
+EulerPoint3D: P1/3 S 0 R 0
+> Note #677
+Onset: 123/2 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #678
+Onset: 739/12 Duration: 1/12 Dynamics: 74
+EulerPoint3D: P7/12 S 0 R 0
+> Note #679
+Onset: 185/3 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P1/3 S 0 R 0
+> Note #680
+Onset: 247/4 Duration: 1/12 Dynamics: 73
+EulerPoint3D: P11/12 S 0 R 0
+> Note #681
+Onset: 371/6 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P7/12 S 0 R 0
+> Note #682
+Onset: 743/12 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P1/3 S 0 R 0
+> Note #683
+Onset: 62 Duration: 1/12 Dynamics: 66
+EulerPoint3D: P1/4 S 0 R 0
+> Note #684
+Onset: 745/12 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P1/2 S 0 R 0
+> Note #685
+Onset: 373/6 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P0 S 0 R 0
+> Note #686
+Onset: 249/4 Duration: 1/12 Dynamics: 64
+EulerPoint3D: P1/4 S 0 R 0
+> Note #687
+Onset: 187/3 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #688
+Onset: 749/12 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P0 S 0 R 0
+> Note #689
+Onset: 125/2 Duration: 1/12 Dynamics: 57
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #690
+Onset: 751/12 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #691
+Onset: 188/3 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-1 S 0 R 0
+> Note #692
+Onset: 251/4 Duration: 1/12 Dynamics: 67
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #693
+Onset: 63 Duration: 1/12 Dynamics: 58
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #694
+Onset: 757/12 Duration: 1/12 Dynamics: 61
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #695
+Onset: 379/6 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #696
+Onset: 253/4 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #697
+Onset: 190/3 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #698
+Onset: 761/12 Duration: 1/12 Dynamics: 67
+EulerPoint3D: P1/3 S 0 R 0
+> Note #699
+Onset: 127/2 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-1/12 S 0 R 0
+> Note #700
+Onset: 763/12 Duration: 1/12 Dynamics: 74
+EulerPoint3D: P7/12 S 0 R 0
+> Note #701
+Onset: 191/3 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P1/3 S 0 R 0
+> Note #702
+Onset: 255/4 Duration: 1/12 Dynamics: 72
+EulerPoint3D: P11/12 S 0 R 0
+> Note #703
+Onset: 383/6 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P7/12 S 0 R 0
+> Note #704
+Onset: 767/12 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P1/3 S 0 R 0
+> Note #705
+Onset: 64 Duration: 1/12 Dynamics: 64
+EulerPoint3D: P1/4 S 0 R 0
+> Note #706
+Onset: 769/12 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P1/2 S 0 R 0
+> Note #707
+Onset: 385/6 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P0 S 0 R 0
+> Note #708
+Onset: 257/4 Duration: 1/12 Dynamics: 55
+EulerPoint3D: P1/4 S 0 R 0
+> Note #709
+Onset: 193/3 Duration: 1/12 Dynamics: 50
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #710
+Onset: 773/12 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P0 S 0 R 0
+> Note #711
+Onset: 129/2 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-1/2 S 0 R 0
+> Note #712
+Onset: 775/12 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-1/4 S 0 R 0
+> Note #713
+Onset: 194/3 Duration: 1/12 Dynamics: 62
+EulerPoint3D: P-1 S 0 R 0
+> Note #714
+Onset: 259/4 Duration: 1/12 Dynamics: 63
+EulerPoint3D: P-3/4 S 0 R 0
+> Note #715
+Onset: 65 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #716
+Onset: 391/6 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #717
+Onset: 261/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-5/12 S 0 R 0
+> Note #718
+Onset: 196/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #719
+Onset: 263/4 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #720
+Onset: 135/2 Duration: 239/480 Dynamics: 49
+EulerPoint3D: P-2/3 S 0 R 0
+> Note #721
+Onset: 68 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-2/3 S 0 R 0
+> Instrument #1
+> Name: Sonata Quasi Una Fantasia 
+ Note count: 423
+> Note #0
+Onset: 0 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #1
+Onset: 0 Duration: 479/480 Dynamics: 37
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #2
+Onset: 0 Duration: 479/480 Dynamics: 29
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #3
+Onset: 1/4 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #4
+Onset: 1/2 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #5
+Onset: 3/4 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #6
+Onset: 1 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #7
+Onset: 1 Duration: 479/480 Dynamics: 42
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #8
+Onset: 1 Duration: 479/480 Dynamics: 38
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #9
+Onset: 5/4 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #10
+Onset: 3/2 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #11
+Onset: 7/4 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #12
+Onset: 2 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-3 S 0 R 0
+> Note #13
+Onset: 2 Duration: 239/480 Dynamics: 39
+EulerPoint3D: P-2 S 0 R 0
+> Note #14
+Onset: 5/2 Duration: 239/480 Dynamics: 27
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #15
+Onset: 5/2 Duration: 239/480 Dynamics: 29
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #16
+Onset: 3 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #17
+Onset: 3 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #18
+Onset: 3 Duration: 239/480 Dynamics: 31
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #19
+Onset: 13/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #20
+Onset: 7/2 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #21
+Onset: 7/2 Duration: 119/480 Dynamics: 32
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #22
+Onset: 7/2 Duration: 119/480 Dynamics: 39
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #23
+Onset: 15/4 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #24
+Onset: 4 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #25
+Onset: 4 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #26
+Onset: 4 Duration: 479/480 Dynamics: 25
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #27
+Onset: 4 Duration: 479/480 Dynamics: 23
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #28
+Onset: 49/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #29
+Onset: 17/4 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #30
+Onset: 9/2 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #31
+Onset: 19/4 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #32
+Onset: 5 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #33
+Onset: 5 Duration: 479/480 Dynamics: 40
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #34
+Onset: 5 Duration: 479/480 Dynamics: 32
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #35
+Onset: 5 Duration: 479/480 Dynamics: 28
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #36
+Onset: 21/4 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #37
+Onset: 11/2 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #38
+Onset: 23/4 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #39
+Onset: 6 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #40
+Onset: 6 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #41
+Onset: 6 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #42
+Onset: 25/4 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #43
+Onset: 13/2 Duration: 239/480 Dynamics: 33
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #44
+Onset: 13/2 Duration: 239/480 Dynamics: 28
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #45
+Onset: 7 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #46
+Onset: 7 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #47
+Onset: 7 Duration: 239/480 Dynamics: 24
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #48
+Onset: 29/4 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #49
+Onset: 15/2 Duration: 239/480 Dynamics: 24
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #50
+Onset: 15/2 Duration: 239/480 Dynamics: 25
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #51
+Onset: 8 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #52
+Onset: 8 Duration: 479/480 Dynamics: 21
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #53
+Onset: 8 Duration: 479/480 Dynamics: 36
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #54
+Onset: 33/4 Duration: 1/12 Dynamics: 22
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #55
+Onset: 17/2 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #56
+Onset: 35/4 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #57
+Onset: 9 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #58
+Onset: 9 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #59
+Onset: 9 Duration: 479/480 Dynamics: 36
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #60
+Onset: 37/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #61
+Onset: 19/2 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #62
+Onset: 39/4 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #63
+Onset: 10 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #64
+Onset: 10 Duration: 479/480 Dynamics: 25
+EulerPoint3D: P-31/12 S 0 R 0
+> Note #65
+Onset: 10 Duration: 479/480 Dynamics: 19
+EulerPoint3D: P-19/12 S 0 R 0
+> Note #66
+Onset: 41/4 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #67
+Onset: 21/2 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #68
+Onset: 43/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #69
+Onset: 11 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #70
+Onset: 11 Duration: 119/480 Dynamics: 40
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #71
+Onset: 11 Duration: 119/480 Dynamics: 32
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #72
+Onset: 45/4 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #73
+Onset: 45/4 Duration: 119/480 Dynamics: 46
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #74
+Onset: 45/4 Duration: 119/480 Dynamics: 40
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #75
+Onset: 23/2 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #76
+Onset: 23/2 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-35/12 S 0 R 0
+> Note #77
+Onset: 23/2 Duration: 239/480 Dynamics: 38
+EulerPoint3D: P-23/12 S 0 R 0
+> Note #78
+Onset: 47/4 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #79
+Onset: 12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #80
+Onset: 12 Duration: 239/480 Dynamics: 40
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #81
+Onset: 12 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #82
+Onset: 49/4 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #83
+Onset: 25/2 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #84
+Onset: 25/2 Duration: 119/480 Dynamics: 43
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #85
+Onset: 51/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/6 S 0 R 0
+> Note #86
+Onset: 51/4 Duration: 119/480 Dynamics: 47
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #87
+Onset: 13 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #88
+Onset: 13 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #89
+Onset: 53/4 Duration: 119/480 Dynamics: 30
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #90
+Onset: 27/2 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #91
+Onset: 27/2 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #92
+Onset: 27/2 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #93
+Onset: 55/4 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #94
+Onset: 14 Duration: 599/480 Dynamics: 42
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #95
+Onset: 14 Duration: 599/480 Dynamics: 40
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #96
+Onset: 61/4 Duration: 119/480 Dynamics: 53
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #97
+Onset: 61/4 Duration: 119/480 Dynamics: 52
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #98
+Onset: 31/2 Duration: 119/480 Dynamics: 77
+EulerPoint3D: P-13/6 S 0 R 0
+> Note #99
+Onset: 31/2 Duration: 119/480 Dynamics: 81
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #100
+Onset: 63/4 Duration: 119/480 Dynamics: 34
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #101
+Onset: 63/4 Duration: 119/480 Dynamics: 51
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #102
+Onset: 16 Duration: 13/12 Dynamics: 33
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #103
+Onset: 16 Duration: 13/12 Dynamics: 29
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #104
+Onset: 69/4 Duration: 119/480 Dynamics: 48
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #105
+Onset: 69/4 Duration: 119/480 Dynamics: 46
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #106
+Onset: 35/2 Duration: 119/480 Dynamics: 68
+EulerPoint3D: P-13/6 S 0 R 0
+> Note #107
+Onset: 35/2 Duration: 119/480 Dynamics: 74
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #108
+Onset: 71/4 Duration: 119/480 Dynamics: 34
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #109
+Onset: 71/4 Duration: 119/480 Dynamics: 47
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #110
+Onset: 18 Duration: 239/480 Dynamics: 31
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #111
+Onset: 18 Duration: 239/480 Dynamics: 53
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #112
+Onset: 37/2 Duration: 239/480 Dynamics: 32
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #113
+Onset: 37/2 Duration: 239/480 Dynamics: 36
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #114
+Onset: 19 Duration: 239/480 Dynamics: 39
+EulerPoint3D: P-10/3 S 0 R 0
+> Note #115
+Onset: 19 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-7/3 S 0 R 0
+> Note #116
+Onset: 39/2 Duration: 239/480 Dynamics: 28
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #117
+Onset: 39/2 Duration: 239/480 Dynamics: 38
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #118
+Onset: 20 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #119
+Onset: 20 Duration: 239/480 Dynamics: 51
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #120
+Onset: 20 Duration: 239/480 Dynamics: 38
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #121
+Onset: 81/4 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-7/6 S 0 R 0
+> Note #122
+Onset: 41/2 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #123
+Onset: 41/2 Duration: 239/480 Dynamics: 49
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #124
+Onset: 41/2 Duration: 239/480 Dynamics: 36
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #125
+Onset: 83/4 Duration: 1/12 Dynamics: 26
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #126
+Onset: 21 Duration: 1/12 Dynamics: 28
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #127
+Onset: 21 Duration: 239/480 Dynamics: 29
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #128
+Onset: 253/12 Duration: 1/12 Dynamics: 18
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #129
+Onset: 85/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #130
+Onset: 64/3 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #131
+Onset: 43/2 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #132
+Onset: 43/2 Duration: 119/480 Dynamics: 37
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #133
+Onset: 259/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #134
+Onset: 65/3 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #135
+Onset: 87/4 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #136
+Onset: 87/4 Duration: 1/12 Dynamics: 23
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #137
+Onset: 131/6 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-4/3 S 0 R 0
+> Note #138
+Onset: 263/12 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #139
+Onset: 22 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #140
+Onset: 22 Duration: 479/480 Dynamics: 39
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #141
+Onset: 22 Duration: 479/480 Dynamics: 23
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #142
+Onset: 22 Duration: 479/480 Dynamics: 26
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #143
+Onset: 23 Duration: 479/480 Dynamics: 27
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #144
+Onset: 23 Duration: 479/480 Dynamics: 29
+EulerPoint3D: P-7/3 S 0 R 0
+> Note #145
+Onset: 23 Duration: 479/480 Dynamics: 34
+EulerPoint3D: P-4/3 S 0 R 0
+> Note #146
+Onset: 24 Duration: 239/480 Dynamics: 22
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #147
+Onset: 24 Duration: 239/480 Dynamics: 31
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #148
+Onset: 49/2 Duration: 119/480 Dynamics: 51
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #149
+Onset: 49/2 Duration: 119/480 Dynamics: 56
+EulerPoint3D: P-5/2 S 0 R 0
+> Note #150
+Onset: 99/4 Duration: 119/480 Dynamics: 50
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #151
+Onset: 99/4 Duration: 119/480 Dynamics: 62
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #152
+Onset: 25 Duration: 359/480 Dynamics: 45
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #153
+Onset: 25 Duration: 359/480 Dynamics: 51
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #154
+Onset: 25 Duration: 359/480 Dynamics: 51
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #155
+Onset: 103/4 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #156
+Onset: 103/4 Duration: 119/480 Dynamics: 56
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #157
+Onset: 103/4 Duration: 119/480 Dynamics: 37
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #158
+Onset: 26 Duration: 239/480 Dynamics: 28
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #159
+Onset: 26 Duration: 239/480 Dynamics: 46
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #160
+Onset: 26 Duration: 239/480 Dynamics: 43
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #161
+Onset: 53/2 Duration: 119/480 Dynamics: 33
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #162
+Onset: 53/2 Duration: 119/480 Dynamics: 27
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #163
+Onset: 107/4 Duration: 119/480 Dynamics: 34
+EulerPoint3D: P-19/6 S 0 R 0
+> Note #164
+Onset: 107/4 Duration: 119/480 Dynamics: 46
+EulerPoint3D: P-13/6 S 0 R 0
+> Note #165
+Onset: 27 Duration: 479/480 Dynamics: 27
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #166
+Onset: 27 Duration: 479/480 Dynamics: 38
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #167
+Onset: 28 Duration: 479/480 Dynamics: 32
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #168
+Onset: 28 Duration: 479/480 Dynamics: 39
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #169
+Onset: 337/12 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #170
+Onset: 169/6 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #171
+Onset: 113/4 Duration: 119/480 Dynamics: 65
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #172
+Onset: 85/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #173
+Onset: 341/12 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #174
+Onset: 6859/240 Duration: 1/12 Dynamics: 58
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #175
+Onset: 86/3 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #176
+Onset: 115/4 Duration: 119/480 Dynamics: 50
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #177
+Onset: 173/6 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #178
+Onset: 347/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #179
+Onset: 29 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #180
+Onset: 29 Duration: 479/480 Dynamics: 37
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #181
+Onset: 29 Duration: 479/480 Dynamics: 39
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #182
+Onset: 30 Duration: 479/480 Dynamics: 42
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #183
+Onset: 30 Duration: 479/480 Dynamics: 38
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #184
+Onset: 361/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #185
+Onset: 181/6 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #186
+Onset: 91/3 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #187
+Onset: 365/12 Duration: 1/12 Dynamics: 58
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #188
+Onset: 367/12 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #189
+Onset: 92/3 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #190
+Onset: 185/6 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #191
+Onset: 371/12 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #192
+Onset: 31 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #193
+Onset: 31 Duration: 479/480 Dynamics: 25
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #194
+Onset: 31 Duration: 479/480 Dynamics: 29
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #195
+Onset: 187/6 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #196
+Onset: 32 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #197
+Onset: 32 Duration: 479/480 Dynamics: 36
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #198
+Onset: 32 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #199
+Onset: 193/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #200
+Onset: 33 Duration: 479/480 Dynamics: 27
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #201
+Onset: 33 Duration: 479/480 Dynamics: 40
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #202
+Onset: 34 Duration: 1439/480 Dynamics: 34
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #203
+Onset: 34 Duration: 1439/480 Dynamics: 32
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #204
+Onset: 437/12 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #205
+Onset: 439/12 Duration: 1/6 Dynamics: 69
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #206
+Onset: 110/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #207
+Onset: 147/4 Duration: 1/6 Dynamics: 61
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #208
+Onset: 221/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #209
+Onset: 37 Duration: 239/480 Dynamics: 44
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #210
+Onset: 37 Duration: 479/480 Dynamics: 32
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #211
+Onset: 37 Duration: 479/480 Dynamics: 35
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #212
+Onset: 445/12 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #213
+Onset: 223/6 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #214
+Onset: 112/3 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #215
+Onset: 449/12 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #216
+Onset: 75/2 Duration: 119/480 Dynamics: 71
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #217
+Onset: 451/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #218
+Onset: 151/4 Duration: 119/480 Dynamics: 68
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #219
+Onset: 227/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #220
+Onset: 38 Duration: 239/480 Dynamics: 52
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #221
+Onset: 38 Duration: 479/480 Dynamics: 37
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #222
+Onset: 38 Duration: 479/480 Dynamics: 32
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #223
+Onset: 457/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #224
+Onset: 229/6 Duration: 1/12 Dynamics: 63
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #225
+Onset: 115/3 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #226
+Onset: 461/12 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #227
+Onset: 77/2 Duration: 119/480 Dynamics: 72
+EulerPoint3D: P-19/12 S 0 R 0
+> Note #228
+Onset: 463/12 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #229
+Onset: 155/4 Duration: 119/480 Dynamics: 64
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #230
+Onset: 233/6 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #231
+Onset: 39 Duration: 239/480 Dynamics: 31
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #232
+Onset: 39 Duration: 239/480 Dynamics: 57
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #233
+Onset: 39 Duration: 239/480 Dynamics: 39
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #234
+Onset: 469/12 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #235
+Onset: 235/6 Duration: 1/12 Dynamics: 53
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #236
+Onset: 118/3 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #237
+Onset: 473/12 Duration: 1/12 Dynamics: 50
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #238
+Onset: 79/2 Duration: 119/480 Dynamics: 37
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #239
+Onset: 79/2 Duration: 239/480 Dynamics: 38
+EulerPoint3D: P-3 S 0 R 0
+> Note #240
+Onset: 79/2 Duration: 239/480 Dynamics: 38
+EulerPoint3D: P-2 S 0 R 0
+> Note #241
+Onset: 475/12 Duration: 1/12 Dynamics: 24
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #242
+Onset: 159/4 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #243
+Onset: 239/6 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #244
+Onset: 40 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #245
+Onset: 40 Duration: 239/480 Dynamics: 27
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #246
+Onset: 40 Duration: 239/480 Dynamics: 25
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #247
+Onset: 161/4 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #248
+Onset: 81/2 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #249
+Onset: 81/2 Duration: 239/480 Dynamics: 33
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #250
+Onset: 81/2 Duration: 239/480 Dynamics: 33
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #251
+Onset: 487/12 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #252
+Onset: 163/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #253
+Onset: 245/6 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #254
+Onset: 41 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #255
+Onset: 41 Duration: 479/480 Dynamics: 34
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #256
+Onset: 41 Duration: 479/480 Dynamics: 37
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #257
+Onset: 41 Duration: 479/480 Dynamics: 35
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #258
+Onset: 493/12 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #259
+Onset: 165/4 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #260
+Onset: 83/2 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #261
+Onset: 167/4 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #262
+Onset: 42 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #263
+Onset: 42 Duration: 479/480 Dynamics: 20
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #264
+Onset: 42 Duration: 479/480 Dynamics: 24
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #265
+Onset: 42 Duration: 479/480 Dynamics: 26
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #266
+Onset: 169/4 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #267
+Onset: 85/2 Duration: 1/12 Dynamics: 25
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #268
+Onset: 171/4 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #269
+Onset: 43 Duration: 1/12 Dynamics: 27
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #270
+Onset: 43 Duration: 239/480 Dynamics: 25
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #271
+Onset: 43 Duration: 239/480 Dynamics: 20
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #272
+Onset: 173/4 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #273
+Onset: 87/2 Duration: 239/480 Dynamics: 35
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #274
+Onset: 87/2 Duration: 239/480 Dynamics: 30
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #275
+Onset: 44 Duration: 1/12 Dynamics: 31
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #276
+Onset: 44 Duration: 239/480 Dynamics: 37
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #277
+Onset: 44 Duration: 239/480 Dynamics: 35
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #278
+Onset: 177/4 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #279
+Onset: 89/2 Duration: 239/480 Dynamics: 22
+EulerPoint3D: P-11/6 S 0 R 0
+> Note #280
+Onset: 89/2 Duration: 239/480 Dynamics: 35
+EulerPoint3D: P-17/6 S 0 R 0
+> Note #281
+Onset: 45 Duration: 1/12 Dynamics: 20
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #282
+Onset: 45 Duration: 479/480 Dynamics: 32
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #283
+Onset: 45 Duration: 479/480 Dynamics: 41
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #284
+Onset: 46 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-5/2 S 0 R 0
+> Note #285
+Onset: 46 Duration: 479/480 Dynamics: 40
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #286
+Onset: 47 Duration: 239/480 Dynamics: 42
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #287
+Onset: 47 Duration: 239/480 Dynamics: 36
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #288
+Onset: 95/2 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #289
+Onset: 95/2 Duration: 119/480 Dynamics: 58
+EulerPoint3D: P-5/2 S 0 R 0
+> Note #290
+Onset: 191/4 Duration: 119/480 Dynamics: 65
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #291
+Onset: 191/4 Duration: 119/480 Dynamics: 57
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #292
+Onset: 48 Duration: 239/480 Dynamics: 51
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #293
+Onset: 48 Duration: 239/480 Dynamics: 60
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #294
+Onset: 48 Duration: 239/480 Dynamics: 40
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #295
+Onset: 97/2 Duration: 119/480 Dynamics: 43
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #296
+Onset: 97/2 Duration: 119/480 Dynamics: 36
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #297
+Onset: 97/2 Duration: 119/480 Dynamics: 38
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #298
+Onset: 49 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #299
+Onset: 49 Duration: 239/480 Dynamics: 17
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #300
+Onset: 99/2 Duration: 239/480 Dynamics: 30
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #301
+Onset: 99/2 Duration: 239/480 Dynamics: 26
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #302
+Onset: 50 Duration: 599/480 Dynamics: 29
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #303
+Onset: 50 Duration: 599/480 Dynamics: 25
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #304
+Onset: 205/4 Duration: 119/480 Dynamics: 48
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #305
+Onset: 205/4 Duration: 119/480 Dynamics: 49
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #306
+Onset: 103/2 Duration: 119/480 Dynamics: 79
+EulerPoint3D: P-2 S 0 R 0
+> Note #307
+Onset: 207/4 Duration: 119/480 Dynamics: 31
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #308
+Onset: 207/4 Duration: 119/480 Dynamics: 31
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #309
+Onset: 52 Duration: 599/480 Dynamics: 27
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #310
+Onset: 52 Duration: 599/480 Dynamics: 34
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #311
+Onset: 213/4 Duration: 119/480 Dynamics: 50
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #312
+Onset: 213/4 Duration: 119/480 Dynamics: 44
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #313
+Onset: 107/2 Duration: 119/480 Dynamics: 72
+EulerPoint3D: P-2 S 0 R 0
+> Note #314
+Onset: 215/4 Duration: 119/480 Dynamics: 30
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #315
+Onset: 215/4 Duration: 119/480 Dynamics: 39
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #316
+Onset: 54 Duration: 239/480 Dynamics: 25
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #317
+Onset: 54 Duration: 239/480 Dynamics: 35
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #318
+Onset: 109/2 Duration: 239/480 Dynamics: 28
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #319
+Onset: 109/2 Duration: 239/480 Dynamics: 26
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #320
+Onset: 55 Duration: 359/480 Dynamics: 29
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #321
+Onset: 55 Duration: 359/480 Dynamics: 38
+EulerPoint3D: P-5/2 S 0 R 0
+> Note #322
+Onset: 223/4 Duration: 119/480 Dynamics: 24
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #323
+Onset: 223/4 Duration: 119/480 Dynamics: 32
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #324
+Onset: 56 Duration: 119/480 Dynamics: 39
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #325
+Onset: 56 Duration: 119/480 Dynamics: 37
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #326
+Onset: 225/4 Duration: 119/480 Dynamics: 39
+EulerPoint3D: P-5/2 S 0 R 0
+> Note #327
+Onset: 225/4 Duration: 119/480 Dynamics: 38
+EulerPoint3D: P-3/2 S 0 R 0
+> Note #328
+Onset: 113/2 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #329
+Onset: 113/2 Duration: 119/480 Dynamics: 35
+EulerPoint3D: P-7/4 S 0 R 0
+> Note #330
+Onset: 113/2 Duration: 119/480 Dynamics: 39
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #331
+Onset: 227/4 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #332
+Onset: 227/4 Duration: 119/480 Dynamics: 36
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #333
+Onset: 227/4 Duration: 119/480 Dynamics: 33
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #334
+Onset: 57 Duration: 1/12 Dynamics: 48
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #335
+Onset: 57 Duration: 239/480 Dynamics: 29
+EulerPoint3D: P-3 S 0 R 0
+> Note #336
+Onset: 57 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-2 S 0 R 0
+> Note #337
+Onset: 229/4 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #338
+Onset: 115/2 Duration: 1/12 Dynamics: 54
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #339
+Onset: 115/2 Duration: 119/480 Dynamics: 40
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #340
+Onset: 115/2 Duration: 119/480 Dynamics: 44
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #341
+Onset: 231/4 Duration: 119/480 Dynamics: 44
+EulerPoint3D: P-9/4 S 0 R 0
+> Note #342
+Onset: 231/4 Duration: 119/480 Dynamics: 45
+EulerPoint3D: P-13/4 S 0 R 0
+> Note #343
+Onset: 58 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #344
+Onset: 58 Duration: 239/480 Dynamics: 31
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #345
+Onset: 58 Duration: 239/480 Dynamics: 43
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #346
+Onset: 233/4 Duration: 1/12 Dynamics: 32
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #347
+Onset: 117/2 Duration: 1/12 Dynamics: 13
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #348
+Onset: 117/2 Duration: 239/480 Dynamics: 30
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #349
+Onset: 117/2 Duration: 239/480 Dynamics: 35
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #350
+Onset: 235/4 Duration: 1/12 Dynamics: 42
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #351
+Onset: 59 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #352
+Onset: 59 Duration: 359/480 Dynamics: 27
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #353
+Onset: 59 Duration: 479/480 Dynamics: 33
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #354
+Onset: 709/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #355
+Onset: 237/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #356
+Onset: 119/2 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #357
+Onset: 239/4 Duration: 1/12 Dynamics: 43
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #358
+Onset: 239/4 Duration: 3/16 Dynamics: 61
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #359
+Onset: 959/16 Duration: 1/16 Dynamics: 61
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #360
+Onset: 60 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #361
+Onset: 60 Duration: 359/480 Dynamics: 46
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #362
+Onset: 60 Duration: 479/480 Dynamics: 52
+EulerPoint3D: P-11/4 S 0 R 0
+> Note #363
+Onset: 241/4 Duration: 1/12 Dynamics: 46
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #364
+Onset: 121/2 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #365
+Onset: 243/4 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #366
+Onset: 243/4 Duration: 3/16 Dynamics: 64
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #367
+Onset: 975/16 Duration: 1/16 Dynamics: 48
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #368
+Onset: 61 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #369
+Onset: 61 Duration: 359/480 Dynamics: 55
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #370
+Onset: 61 Duration: 479/480 Dynamics: 43
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #371
+Onset: 247/4 Duration: 3/16 Dynamics: 69
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #372
+Onset: 991/16 Duration: 1/16 Dynamics: 62
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #373
+Onset: 62 Duration: 359/480 Dynamics: 60
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #374
+Onset: 62 Duration: 359/480 Dynamics: 60
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #375
+Onset: 251/4 Duration: 3/16 Dynamics: 49
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #376
+Onset: 377/6 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #377
+Onset: 755/12 Duration: 1/12 Dynamics: 56
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #378
+Onset: 1007/16 Duration: 1/16 Dynamics: 51
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #379
+Onset: 63 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #380
+Onset: 63 Duration: 359/480 Dynamics: 52
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #381
+Onset: 63 Duration: 359/480 Dynamics: 44
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #382
+Onset: 255/4 Duration: 3/16 Dynamics: 61
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #383
+Onset: 1023/16 Duration: 1/16 Dynamics: 64
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #384
+Onset: 64 Duration: 359/480 Dynamics: 61
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #385
+Onset: 64 Duration: 359/480 Dynamics: 54
+EulerPoint3D: P-37/12 S 0 R 0
+> Note #386
+Onset: 259/4 Duration: 3/16 Dynamics: 56
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #387
+Onset: 389/6 Duration: 1/12 Dynamics: 52
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #388
+Onset: 779/12 Duration: 1/12 Dynamics: 47
+EulerPoint3D: P-5/4 S 0 R 0
+> Note #389
+Onset: 1039/16 Duration: 1/16 Dynamics: 51
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #390
+Onset: 65 Duration: 1/12 Dynamics: 49
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #391
+Onset: 65 Duration: 239/480 Dynamics: 46
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #392
+Onset: 65 Duration: 959/480 Dynamics: 47
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #393
+Onset: 781/12 Duration: 1/12 Dynamics: 45
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #394
+Onset: 785/12 Duration: 1/12 Dynamics: 30
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #395
+Onset: 131/2 Duration: 239/480 Dynamics: 54
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #396
+Onset: 787/12 Duration: 1/12 Dynamics: 29
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #397
+Onset: 197/3 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #398
+Onset: 395/6 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #399
+Onset: 791/12 Duration: 1/12 Dynamics: 34
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #400
+Onset: 66 Duration: 119/480 Dynamics: 38
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #401
+Onset: 793/12 Duration: 1/12 Dynamics: 38
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #402
+Onset: 397/6 Duration: 1/12 Dynamics: 35
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #403
+Onset: 265/4 Duration: 1/12 Dynamics: 51
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #404
+Onset: 199/3 Duration: 1/12 Dynamics: 37
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #405
+Onset: 797/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #406
+Onset: 133/2 Duration: 1/12 Dynamics: 33
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #407
+Onset: 799/12 Duration: 1/12 Dynamics: 36
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #408
+Onset: 200/3 Duration: 1/12 Dynamics: 40
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #409
+Onset: 267/4 Duration: 1/12 Dynamics: 44
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #410
+Onset: 401/6 Duration: 1/12 Dynamics: 39
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #411
+Onset: 803/12 Duration: 1/12 Dynamics: 41
+EulerPoint3D: P-29/12 S 0 R 0
+> Note #412
+Onset: 67 Duration: 239/480 Dynamics: 43
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #413
+Onset: 135/2 Duration: 239/480 Dynamics: 51
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #414
+Onset: 135/2 Duration: 239/480 Dynamics: 27
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #415
+Onset: 135/2 Duration: 239/480 Dynamics: 33
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #416
+Onset: 135/2 Duration: 239/480 Dynamics: 33
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #417
+Onset: 135/2 Duration: 239/480 Dynamics: 34
+EulerPoint3D: P-17/12 S 0 R 0
+> Note #418
+Onset: 68 Duration: 479/480 Dynamics: 38
+EulerPoint3D: P-13/12 S 0 R 0
+> Note #419
+Onset: 68 Duration: 479/480 Dynamics: 29
+EulerPoint3D: P-25/12 S 0 R 0
+> Note #420
+Onset: 68 Duration: 479/480 Dynamics: 22
+EulerPoint3D: P-8/3 S 0 R 0
+> Note #421
+Onset: 68 Duration: 479/480 Dynamics: 23
+EulerPoint3D: P-5/3 S 0 R 0
+> Note #422
+Onset: 68 Duration: 479/480 Dynamics: 18
+EulerPoint3D: P-17/12 S 0 R 0
+> Instrument #2
+> Name: by Beethoven
+ Note count: 0
+> Instrument #3
+> Name: G.J.Arsante
+ Note count: 0
+> Instrument #4
+> Name: 
+ Note count: 0
+> Instrument #5
+> Name: 
+ Note count: 0
+> Instrument #6
+> Name: 
+ Note count: 0

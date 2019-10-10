@@ -18,5 +18,18 @@ namespace MaMuTh
 			S = s;
 			R = r;
 		}
+
+		//### Mehtods
+		//## Information
+		public void PrintEulerPointInformation()
+		{
+			Console.WriteLine( ToString() );
+		}
+
+		//#Helper
+		public String ToString()
+		{
+			return "EulerPoint3D: P" + P.ToString() + " S " + S.ToString() + " R " + R.ToString();
+		}
 	}
 }

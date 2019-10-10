@@ -54,5 +54,14 @@ namespace MaMuTh
 			}
 		}
 
+		//### Information
+		public void PrintNoteInformation()
+		{
+			Console.WriteLine( "Onset: " + Onset.ToString() +
+				" Duration: " + Duration.ToString() +
+				" Dynamics: " + Dynamics.ToString() );
+			
+			EulerPoint.PrintEulerPointInformation();
+		}
 	}
 }

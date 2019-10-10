@@ -1,0 +1,7 @@
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\bin\Debug\MaMuTh.exe.config
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\bin\Debug\MaMuTh.exe
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\bin\Debug\MaMuTh.pdb
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\obj\Debug\MaMuTh.csprojAssemblyReference.cache
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\obj\Debug\MaMuTh.csproj.CoreCompileInputs.cache
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\obj\Debug\MaMuTh.exe
+D:\Studium\Master\Semester2\FuE\Programmierung\MaMuTh\MaMuTh\obj\Debug\MaMuTh.pdb

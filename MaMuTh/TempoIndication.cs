@@ -22,6 +22,13 @@ namespace MaMuTh
 		{
 			Tempo = tempo;
 			ValidAt = new Fraction(validAt.Numerator, validAt.Denominator);
-		}	
+		}
+
+		//### Methods
+
+		public void PrintTempoIndication()
+		{
+			Console.WriteLine( "> : " + Tempo.ToString() + " - Valid at " + ValidAt.ToString() );
+		}
 	}
 }

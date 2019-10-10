@@ -23,5 +23,12 @@ namespace MaMuTh
 			Fraction = new Fraction( fraction.Numerator, fraction.Denominator );
 			ValidAt = new Fraction( validAt.Numerator, validAt.Denominator);
 		}
+
+		//### Methods
+
+		public void PrintTimeSignature()
+		{
+			Console.WriteLine( "> " + Fraction.ToString() + " - Valid at " + ValidAt.ToString() );
+		}
 	}
 }

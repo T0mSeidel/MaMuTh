@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh.MusicDataObject
 {
-	class MusicDataObject
+	public class MusicDataObject
 	{
 		public TemperamentDataObject Temperament;
 		public int BaseFrequency;

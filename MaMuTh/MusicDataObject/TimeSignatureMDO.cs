@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh.MusicDataObject
 {
-	class TimeSignatureMDO
+	public class TimeSignatureMDO
 	{
 		public Fraction Fraction { get; set; }
 		public Fraction ValidAt { get; set; } //Gültig ab 

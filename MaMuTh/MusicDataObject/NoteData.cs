@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh.MusicDataObject
 {
-	class NoteData
+	public class NoteData
 	{
 		public Fraction[] Exponents;
 		public Fraction Duration;
