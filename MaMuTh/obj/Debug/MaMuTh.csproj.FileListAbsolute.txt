@@ -1,7 +1,0 @@
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\bin\Debug\MaMuTh.exe.config
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\bin\Debug\MaMuTh.exe
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\bin\Debug\MaMuTh.pdb
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\obj\Debug\MaMuTh.csprojAssemblyReference.cache
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\obj\Debug\MaMuTh.csproj.CoreCompileInputs.cache
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\obj\Debug\MaMuTh.exe
-E:\Stuff\Studium\Master\Semester_3\FuE\MaMuTh\MaMuTh\obj\Debug\MaMuTh.pdb
