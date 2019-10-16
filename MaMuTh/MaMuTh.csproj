@@ -48,6 +48,8 @@
     <Compile Include="EulerPoint.cs" />
     <Compile Include="MaMuThFacade.cs" />
     <Compile Include="MathHelper\FractionClass.cs" />
+    <Compile Include="Math\EulerModule.cs" />
+    <Compile Include="Math\ModuleStructure.cs" />
     <Compile Include="MusicDataObject\Channel.cs" />
     <Compile Include="MusicDataObject\EnumMusicDataObject.cs" />
     <Compile Include="MusicDataObject\MusicDataObject.cs" />

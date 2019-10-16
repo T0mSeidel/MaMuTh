@@ -18,5 +18,12 @@ namespace MaMuTh
 			S = s;
 			R = r;
 		}
+
+		public EulerPoint( double p, double s, double r )
+		{
+			P = new Fraction( p );
+			S = new Fraction( s );
+			R = new Fraction( r );
+		}
 	}
 }
