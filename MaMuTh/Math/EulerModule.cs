@@ -30,5 +30,23 @@ namespace MaMuTh.Math
 			return new EulerPoint( P, S, R );
 		}
 
+		new static public EulerPoint Mult(EulerPoint multiplicand, EulerPoint multiplier )
+		{
+			Fraction P, S, R;
+			P = multiplicand.P * multiplier.P;
+			S = multiplicand.S * multiplier.S;
+			R = multiplicand.R * multiplier.R;
+			return new EulerPoint( P, S, R );
+		}
+
+		new static public EulerPoint MultScalar( EulerPoint multiplicand, EulerPoint multiplier )
+		{
+			Fraction P, S, R;
+			P = multiplicand.P * multiplier.P;
+			S = multiplicand.S * multiplier.S;
+			R = multiplicand.R * multiplier.R;
+			return new EulerPoint( P, S, R );
+		}
+
 	}
 }
