@@ -48,6 +48,8 @@
     <Compile Include="EulerPoint.cs" />
     <Compile Include="MaMuThFacade.cs" />
     <Compile Include="MathHelper\FractionClass.cs" />
+    <Compile Include="Math\EulerModule.cs" />
+    <Compile Include="Math\ModuleStructure.cs" />
     <Compile Include="MidiParser\DryWetMidi\Common\ControlName.cs" />
     <Compile Include="MidiParser\DryWetMidi\Common\DataTypes\DataTypesUtilities.cs" />
     <Compile Include="MidiParser\DryWetMidi\Common\DataTypes\FourBitNumber.cs" />
@@ -431,6 +433,8 @@
     <Compile Include="MusicDataObject\NoteData.cs" />
     <Compile Include="MusicDataObject\TempoIndicationMDO.cs" />
     <Compile Include="MusicDataObject\TimeSignatureMDO.cs" />
+    <Compile Include="Music\MusicHelper.cs" />
+    <Compile Include="Music\Triad.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Pitch.cs" />
     <Compile Include="Program.cs" />
@@ -439,7 +443,6 @@
     <Compile Include="TimeSignature.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="MidiParser\DryWetMidi\ClassDiagrams\ChannelEventsClassDiagram.cd" />
     <None Include="MidiParser\DryWetMidi\ClassDiagrams\EventsClassDiagram.cd" />
     <None Include="MidiParser\DryWetMidi\ClassDiagrams\MetaEventsClassDiagram.cd" />

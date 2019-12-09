@@ -26,4 +26,32 @@ namespace MaMuTh
 		fortissimo = 6,
 		fortississimo = 7
 	}
+
+	enum TriadType
+	{
+		MajorTriad = 0,
+		MinorTriad = 1,
+		DiminishedTriad = 2, //verminderter Dreiklang
+		AugmentedTriad = 3, //übermäßiger Dreiklang
+		AllTriads = 4,
+		NoTriad = 5
+	}
+
+	enum TriadInversion
+	{
+		NoInversion = 0,
+		FirstInversion = 1,
+		SecondInversion = 2,
+		StatisticalInversionFundamentalToneFirst = 3,
+		StatisticalInversionFundamentalToneSecond = 4,
+		StatisticalInversionFundamentalToneThird = 5
+	}
+
+	enum FundamentalTone
+	{
+		Default = 0,
+		FirstNote = 1,
+		SecondNote = 2,
+		ThirdNote = 3
+	}
 }

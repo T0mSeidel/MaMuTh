@@ -31,5 +31,12 @@ namespace MaMuTh
 		{
 			return "EulerPoint3D: P" + P.ToString() + " S " + S.ToString() + " R " + R.ToString();
 		}
+
+		public void NormalizeFractions()
+		{
+			P *= P.Denominator;
+			S *= S.Denominator;
+			R *= R.Denominator;
+		}
 	}
 }

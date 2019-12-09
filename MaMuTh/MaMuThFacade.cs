@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MaMuTh.MusicDataObject;
+using Mehroz;
+using MaMuTh.Math;
+using MaMuTh.Music;
 
 namespace MaMuTh
 {
@@ -154,5 +157,52 @@ namespace MaMuTh
 			writer.Close();
 			ostrm.Close();
 		}
+
+		public void PrintTriads()
+		{
+			foreach(Instrument instrument in Composition.Instruments )
+			{
+				Console.WriteLine( "#################" );
+				Console.WriteLine( "Triads of instrument: " + instrument.Name );
+				instrument.PrintTriadInformation();
+				Console.WriteLine( "#################" );
+			}
+		}
+
+		//###Methods Calculating
+		public void TransposeComposition(EulerPoint ToAdd )
+		{
+			foreach(Instrument instrument in Composition.Instruments )
+			{
+				foreach(Note note in instrument.Notes )
+				{
+					note.EulerPoint = EulerModule.Add( note.EulerPoint, ToAdd );
+				}
+			}
+		}
+
+		//###Methods Analysing
+		public void InitializeTriads()
+		{
+			foreach(Instrument instrument in Composition.Instruments )
+			{
+				instrument.InitializeTriads();
+			}
+		}
+
+		public void GetTriads(TriadType type)
+		{
+			foreach( Instrument instrument in Composition.Instruments )
+			{
+				List<Triad> triads = instrument.GetTriads( type );
+				foreach( Triad triad in triads )
+				{
+					triad.PrintTriadInformation();
+				}
+			}
+		}
+
+
+
 	}
 }

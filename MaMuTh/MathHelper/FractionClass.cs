@@ -152,7 +152,7 @@
 
 				m_Numerator = numerator;
 				m_Denominator = denominator;
-				ReduceFraction(ref this);
+				//ReduceFraction(ref this);
 			}
 
 			/// <summary>
@@ -856,7 +856,7 @@
 			public override int GetHashCode()
 			{
 				// insure we're as close to normalized as possible first
-				ReduceFraction(ref this);
+				//ReduceFraction(ref this);
 
 				int numeratorHash = this.m_Numerator.GetHashCode();
 				int denominatorHash = this.m_Denominator.GetHashCode();
@@ -1054,10 +1054,10 @@
 			private bool CompareEquality(Fraction right, bool notEqualCheck)
 			{
 				// insure we're normalized first
-				ReduceFraction(ref this);
+				//ReduceFraction(ref this);
 
 				// now normalize the comperand
-				ReduceFraction(ref right);
+				//ReduceFraction(ref right);
 
 				if (this.m_Numerator == right.m_Numerator && this.m_Denominator == right.m_Denominator)
 				{
