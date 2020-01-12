@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh
 {
-	class Note
+	public class Note
 	{
 		public Pitch Pitch { get; set; }
 		public EulerPoint EulerPoint { get; set; }

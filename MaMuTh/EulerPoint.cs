@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh
 {
-	class EulerPoint
+	public class EulerPoint
 	{
 		public Fraction P, S, R;
 		private float Frequency;

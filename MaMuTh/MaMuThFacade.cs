@@ -11,7 +11,7 @@ using MaMuTh.Music;
 
 namespace MaMuTh
 {
-	class MaMuThFacade
+	public class MaMuThFacade
 	{
 		private Composition Composition;
 
@@ -190,16 +190,52 @@ namespace MaMuTh
 			}
 		}
 
-		public void GetTriads(TriadType type)
+		public List<Triad> GetTriadsOfInstrument(TriadType type, int indexOfInstrument)
 		{
-			foreach( Instrument instrument in Composition.Instruments )
+			if (Composition.Instruments[indexOfInstrument] != null)
+				return Composition.Instruments[indexOfInstrument].GetTriads(type);
+			else
+				throw new NullReferenceException("Instrument doesn't exist");
+		}
+
+		public List<Triad> GetTriadsOfInstrument(TriadType type, string nameOfInstrument)
+		{
+			Instrument instrument;
+			try
 			{
-				List<Triad> triads = instrument.GetTriads( type );
-				foreach( Triad triad in triads )
-				{
-					triad.PrintTriadInformation();
-				}
+				instrument = Composition.GetInstrumentByName(nameOfInstrument);
+			
+
+				if (instrument != null)
+					return instrument.GetTriads(type);
+				else
+					throw new NullReferenceException("Instrument doesn't exist");
 			}
+			catch (ArgumentException e)
+			{
+				Console.WriteLine(e.ToString());
+			}
+			return null;
+		}
+
+		public List<Triad> GetTriadsOfInstrument(TriadType type, string nameOfInstrument, int indexOfInstrument)
+		{
+			Instrument instrument;
+			try
+			{
+				instrument = Composition.GetInstrumentByName(nameOfInstrument, indexOfInstrument);
+
+
+				if (instrument != null)
+					return instrument.GetTriads(type);
+				else
+					throw new NullReferenceException("Instrument doesn't exist");
+			}
+			catch (ArgumentException e)
+			{
+				Console.WriteLine(e.ToString());
+			}
+			return null;
 		}
 
 

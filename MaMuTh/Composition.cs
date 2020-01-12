@@ -25,5 +25,41 @@ namespace MaMuTh
 			BaseFrequency = baseFrequency;
 			Temperament = temperament;
 		}
+
+		public Instrument GetInstrumentByName(string nameOfInstrument)
+		{
+			IEnumerable<Instrument> instrumentsGotByName = Instruments.Where(instrument => instrument.Name.Equals(nameOfInstrument));
+			int numberOfInstruments = instrumentsGotByName.Count();
+			if (numberOfInstruments == 1)
+			{
+				return instrumentsGotByName.First();
+
+			}else if(numberOfInstruments == 0)
+			{
+				return null;
+			}
+			else
+			{
+				throw new ArgumentException("More than one Instrument found with the same name. Please pass an index ");
+			}
+		}
+		public Instrument GetInstrumentByName(string nameOfInstrument, int indexOfInstrument)
+		{
+			List<Instrument> instrumentsGotByName = Instruments.Where(instrument => instrument.Name.Equals(nameOfInstrument)).ToList();
+			int numberOfInstruments = instrumentsGotByName.Count();
+			if (numberOfInstruments == 1)
+			{
+				return instrumentsGotByName.First();
+
+			}
+			else if (numberOfInstruments == 0)
+			{
+				throw null;
+			}
+			else
+			{
+				return instrumentsGotByName[indexOfInstrument];
+			}
+		}
 	}
 }

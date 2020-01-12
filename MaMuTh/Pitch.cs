@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh
 {
-	class Pitch
+	public class Pitch
 	{
 		public float Frequency;
 		public float MathPitch;

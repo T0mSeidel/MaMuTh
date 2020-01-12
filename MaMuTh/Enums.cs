@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh
 {
-	enum Temperament
+	public enum Temperament
 	{
 		Default = 0,
 		WellTemperament = 1,
@@ -15,7 +15,7 @@ namespace MaMuTh
 		EqualTemperament = 4
 	}
 
-	enum Dynamics
+	public enum Dynamics
 	{
 		pianississimo = 0,
 		pianissimo = 1,
@@ -27,7 +27,7 @@ namespace MaMuTh
 		fortississimo = 7
 	}
 
-	enum TriadType
+	public enum TriadType
 	{
 		MajorTriad = 0,
 		MinorTriad = 1,
@@ -37,7 +37,7 @@ namespace MaMuTh
 		NoTriad = 5
 	}
 
-	enum TriadInversion
+	public enum TriadInversion
 	{
 		NoInversion = 0,
 		FirstInversion = 1,
@@ -47,7 +47,7 @@ namespace MaMuTh
 		StatisticalInversionFundamentalToneThird = 5
 	}
 
-	enum FundamentalTone
+	public enum FundamentalTone
 	{
 		Default = 0,
 		FirstNote = 1,

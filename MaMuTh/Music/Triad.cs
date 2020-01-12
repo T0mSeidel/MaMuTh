@@ -7,7 +7,7 @@ using Mehroz;
 
 namespace MaMuTh.Music
 {
-	class Triad
+	public class Triad
 	{
 		public Note FirstNote { get; set; }
 		public Note SecondNote { get; set; }

@@ -8,7 +8,7 @@ using MaMuTh.Math;
 
 namespace MaMuTh
 {
-	class Instrument
+	public class Instrument
 	{
 		public string Name { get; set; }
 		public List<Note> Notes { get; set; }
@@ -98,6 +98,11 @@ namespace MaMuTh
 			{
 				Console.WriteLine( "No triads found. You may first use the method 'InitializeTriads' and then repeat this method-call." );
 				Console.WriteLine( "If still nothing is shown, the analyzed music doesn't contain any triads" );
+			}
+
+			if(type == TriadType.AllTriads)
+			{
+				return Triads;
 			}
 
 			return Triads.Where( t => t.triadType == type ).ToList();
