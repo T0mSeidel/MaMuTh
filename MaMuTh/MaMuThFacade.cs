@@ -238,7 +238,169 @@ namespace MaMuTh
 			return null;
 		}
 
+        public void FindScales(string scaletyp = "all", string customScale = "none", int top = 20, int percent = 50)
+        {
+            Dictionary<long, int> noteList = new Dictionary<long, int>();
+            List<int> notesCounter = new List<int>();
+            int denominator = 12;
+            for (int i = 0; i < denominator; i++)
+            {
+                notesCounter.Add(0);
+            }
+
+            for (int i = 0; i < Composition.Instruments.Count; i++)
+            {
+                List<Note> Notes = Composition.Instruments[i].Notes;
+
+                for (int j = 0; j < Notes.Count; j++)
+                {
+                    denominator = Convert.ToInt32(Notes[j].EulerPoint.P.Denominator);
+                    int ptr = Convert.ToInt32(Notes[j].EulerPoint.P.Numerator % denominator);
+                    if (ptr < 0) ptr += denominator;
+
+                    notesCounter[ptr] += 1;
+
+                }
+            }
 
 
-	}
+            for (int i = 0; i < notesCounter.Count; i++)
+            {
+                if (notesCounter[i] > 0)
+                {
+                    noteList.Add(i, notesCounter[i]);
+                }
+
+
+            }
+            List<Scale> scales = InitScales(scaletyp, customScale);
+
+            string str = "";
+
+            foreach (var item in noteList.OrderByDescending(i => i.Value))
+            {
+                str += "[" + Enum.GetName(typeof(Notes), item.Key) + " x " + item.Value.ToString() + "] ";
+            }
+            Console.WriteLine(str + "\n");
+
+            IdentifyKeyAndScale(scales, noteList, notesCounter.Sum(), top, percent);
+
+        }
+
+
+        private List<Scale> InitScales(string scaletyp = "all", string customScale = "none")
+        {
+            List<Scale> scales = new List<Scale>();
+
+            foreach (var item in Enum.GetValues(typeof(Notes)))
+            {
+                if (customScale == "none")
+                {
+                    for (int i = 1; i < Enum.GetValues(typeof(Key)).Length; i++)
+                    {
+                        Key k = (Key)i;
+                        if (scaletyp == "all")
+                        {
+                            scales.Add(new Scale(Convert.ToInt64(item), k, Temperament.Default));
+                        }
+                        else
+                        {
+                            if (k.ToString() == scaletyp)
+                                scales.Add(new Scale(Convert.ToInt64(item), k, Temperament.Default));
+                        }
+                    }
+                }
+                else
+                {
+                    scales.Add(new Scale(Convert.ToInt64(item), customScale.ToCharArray(), Temperament.Default));
+
+                }
+            }
+
+            return scales;
+        }
+
+        public void PrintScalesNotes()
+        {
+            List<Scale> scales = InitScales();
+            foreach (var scale in scales)
+            {
+                scale.PrintScale();
+            }
+        }
+
+        public void PrintScalesDistance()
+        {
+            List<Scale> scales = InitScales();
+            for (int i = 1; i < Enum.GetValues(typeof(Key)).Length; i++)
+            {
+                Key k = (Key)i;
+
+                Scale s = scales.Find(x => x.key == k);
+                s.PrintDistance();
+            }
+        }
+
+        public void IdentifyKeyAndScale(List<Scale> scales, Dictionary<long, int> noteList, int denominator, int top, int percent)
+        {
+            Dictionary<string, Fraction> scaleList = new Dictionary<string, Fraction>();
+            foreach (var item in noteList.OrderByDescending(i => i.Value))
+            {
+                var note = item.Key;
+                var value = item.Value;
+                foreach (var scale in scales)
+                {
+                    if (scale.Contains(note))
+                    {
+                        if (scaleList.ContainsKey(scale.title))
+                        {
+                            scaleList[scale.title] += new Fraction(value, denominator);
+                        }
+                        else
+                        {
+                            scaleList.Add(scale.title, new Fraction(value, denominator));
+                        }
+                    }
+                }
+            }
+
+            if (percent > 0)
+                PrintBestKeyAndScale(scaleList, percent);
+            else
+                PrintTopKeyAndScale(scaleList, top);
+
+        }
+
+        private void PrintTopKeyAndScale(Dictionary<string, Fraction> scaleList, int counter)
+        {
+            Console.WriteLine("|{0,-22}|{1,11} |{2,4} |", "Key Scale", "hit/total", "%");
+            Console.Write(("+").PadRight(23, '-'));
+            Console.Write(("+").PadRight(13, '-'));
+            Console.Write(("+").PadRight(6, '-'));
+            Console.WriteLine("+");
+            foreach (var item in scaleList.OrderByDescending(i => i.Value.Numerator))
+            {
+                if (counter == 0) break;
+                long value = item.Value.Numerator * 100 / item.Value.Denominator;
+                Console.WriteLine("| {0,-20} | {1,10} | {2,2}% |", item.Key, item.Value, value);
+                counter--;
+            }
+        }
+
+        private void PrintBestKeyAndScale(Dictionary<string, Fraction> scaleList, int percent)
+        {
+            Console.WriteLine("|{0,-22}|{1,11} |{2,4} |", "Key Scale", "hit/total", "%");
+            Console.Write(("+").PadRight(23, '-'));
+            Console.Write(("+").PadRight(13, '-'));
+            Console.Write(("+").PadRight(6, '-'));
+            Console.WriteLine("+");
+            foreach (var item in scaleList.OrderByDescending(i => i.Value.Numerator))
+            {
+                long value = item.Value.Numerator * 100 / item.Value.Denominator;
+                if (value >= percent) { }
+                    Console.WriteLine("| {0,-20} | {1,10} | {2,2}% |", item.Key, item.Value, value);
+            }
+        }
+
+    }
 }
