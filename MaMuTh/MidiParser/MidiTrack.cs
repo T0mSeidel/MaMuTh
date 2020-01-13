@@ -22,7 +22,7 @@ namespace MidiParser
             this.pitchBends = new List<MidiPitchBend>();
             this.notes = new List<MidiNote>();
             this.timeSignatures = new List<MidiTimeSignature>();
-
+            this.instrument = new MidiInstrument(0, 0);
             parseEvents(track.GetTimedEvents(), tempoMap);
             parseNotes(track.GetNotes(), tempoMap);
 
@@ -45,6 +45,7 @@ namespace MidiParser
                 else if (str.Contains("Program Change"))
                 {
                     this.instrument = parseInstrument(str);
+                   
                 }
                 else if (str.Contains("Pitch Bend"))
                 {
@@ -53,6 +54,10 @@ namespace MidiParser
                 else if (str.Contains("Time Signature"))
                 {
                     parseTimeSignatureEvents(str, ev.Time, tempoMap);
+                }
+                else if (str.Contains("Key Signature"))
+                {
+                    // 
                 }
             }
         }
@@ -64,8 +69,9 @@ namespace MidiParser
 
         private MidiInstrument parseInstrument(string eventString)
         {
-            int channelNr = Int32.Parse(eventString.Split('[').Last().Split(']').First());
-            int nr = Int32.Parse(parseEventValue(eventString));
+              int channelNr = Int32.Parse(eventString.Split('[').Last().Split(']').First());
+              int nr = Int32.Parse(parseEventValue(eventString));              
+            
             return new MidiInstrument(nr, channelNr);
         }
 
