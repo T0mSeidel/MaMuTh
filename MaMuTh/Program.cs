@@ -38,6 +38,9 @@ namespace MaMuTh
 
             Console.WriteLine("\n{0,-25} {1,20}",  "--custom <distances> ", "Shows only this custom scale defined by distances");
             Console.WriteLine("{0,-25} {1,20}", "> Example (major scale):", "example.mid --custom 221222");
+
+            Console.WriteLine("\n{0,-25} {1,20}", "--bars", "Shows notes in bars");
+            Console.WriteLine("{0,-25} {1,20}", "> Example:", "example.mid --bars");
         }
         static void Main(string[] args)
 		{
@@ -64,19 +67,19 @@ namespace MaMuTh
                 }
                 else if (args.Contains("--info") && args.Length == 3) // Shows information about all scales
                 {
-                    if(args[2] == "notes")
+                    if (args[2] == "notes")
                         facade.PrintScalesDistance();
-                    else if(args[2] == "distance")
+                    else if (args[2] == "distance")
                         facade.PrintScalesDistance();
                     else
                         Console.WriteLine("> Error: Wrong command line parameter");
-                }   
+                }
                 else if (args.Contains("--print") && args.Length == 3) // Prints Information about composition In File
                 {
                     facade.PrintInformationInFile(args[2]);
                 }
                 else if (args.Contains("--top") && args.Length == 3) // Shows only the best matching scale, limited by given value
-                    facade.FindScales(top: Int32.Parse(args[2]), percent:0);
+                    facade.FindScales(top: Int32.Parse(args[2]), percent: 0);
 
                 else if (args.Contains("--percent") && args.Length == 3) //  Shows only scales that has more matches in % than the given value
                     facade.FindScales(percent: Int32.Parse(args[2]));
@@ -87,9 +90,18 @@ namespace MaMuTh
                     //facade.GetTriads(TriadType.MinorTriad);
                     facade.PrintTriads();
                 }
-                   
+
                 else if (args.Contains("--scales")) // Shows all scales with more than 50% matches for current composition
                     facade.FindScales();
+
+                else if (args.Contains("--bars")) // Shows notes in bar
+                    facade.PrintsBars();
+                else
+                {
+                    Console.WriteLine("> Error: Wrong number of command line parameters");
+                    Showhelp();
+                }                 
+              
             }
             else
             {

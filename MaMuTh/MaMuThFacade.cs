@@ -239,18 +239,34 @@ namespace MaMuTh
 		}
 
         public void FindScales(string scaletyp = "all", string customScale = "none", int top = 20, int percent = 50)
-        {
-            Dictionary<long, int> noteList = new Dictionary<long, int>();
-            List<int> notesCounter = new List<int>();
-            int denominator = 12;
-            for (int i = 0; i < denominator; i++)
-            {
-                notesCounter.Add(0);
-            }
-
+        {          
             for (int i = 0; i < Composition.Instruments.Count; i++)
             {
                 List<Note> Notes = Composition.Instruments[i].Notes;
+
+                List<int> notesCounter = CountNotes(Notes, Temperament.Default);
+
+                Dictionary<int, int> noteList = FillNoteList(notesCounter);
+
+                PrintNotesAbsoluteFrequency(noteList);
+
+                List<Scale> scales = InitScales(scaletyp, customScale);
+            
+                IdentifyKeyAndScale(scales, noteList, notesCounter.Sum(), top, percent);
+
+            }
+        }
+
+        private List<int> CountNotes(List<Note> Notes, Temperament temperament)
+        {
+            if (temperament == Temperament.Default)
+            {
+                List<int> notesCounter = new List<int>();
+                int denominator = 12;
+                for (int i = 0; i < denominator; i++)
+                {
+                    notesCounter.Add(0);
+                }
 
                 for (int j = 0; j < Notes.Count; j++)
                 {
@@ -259,34 +275,35 @@ namespace MaMuTh
                     if (ptr < 0) ptr += denominator;
 
                     notesCounter[ptr] += 1;
-
                 }
+                return notesCounter;
             }
+            else // only default temperament supported yet
+                return null;
+        }
 
-
-            for (int i = 0; i < notesCounter.Count; i++)
+        private Dictionary<int, int> FillNoteList(List<int> notesCounter)
+        {
+            Dictionary<int, int> noteList = new Dictionary<int, int>();
+            for (int j = 0; j < notesCounter.Count; j++)
             {
-                if (notesCounter[i] > 0)
+                if (notesCounter[j] > 0)
                 {
-                    noteList.Add(i, notesCounter[i]);
+                    noteList.Add(j, notesCounter[j]);
                 }
-
-
             }
-            List<Scale> scales = InitScales(scaletyp, customScale);
+            return noteList;
+        }
 
+        private void PrintNotesAbsoluteFrequency(Dictionary<int, int> noteList)
+        {
             string str = "";
-
             foreach (var item in noteList.OrderByDescending(i => i.Value))
             {
                 str += "[" + Enum.GetName(typeof(Notes), item.Key) + " x " + item.Value.ToString() + "] ";
             }
             Console.WriteLine(str + "\n");
-
-            IdentifyKeyAndScale(scales, noteList, notesCounter.Sum(), top, percent);
-
         }
-
 
         private List<Scale> InitScales(string scaletyp = "all", string customScale = "none")
         {
@@ -341,7 +358,7 @@ namespace MaMuTh
             }
         }
 
-        public void IdentifyKeyAndScale(List<Scale> scales, Dictionary<long, int> noteList, int denominator, int top, int percent)
+        public void IdentifyKeyAndScale(List<Scale> scales, Dictionary<int, int> noteList, int denominator, int top, int percent)
         {
             Dictionary<string, Fraction> scaleList = new Dictionary<string, Fraction>();
             foreach (var item in noteList.OrderByDescending(i => i.Value))
@@ -399,6 +416,44 @@ namespace MaMuTh
                 long value = item.Value.Numerator * 100 / item.Value.Denominator;
                 if (value >= percent) { }
                     Console.WriteLine("| {0,-20} | {1,10} | {2,2}% |", item.Key, item.Value, value);
+            }
+        }
+
+ 
+
+        public void PrintsBars()
+        {
+            List<Note> Notes = Composition.Instruments[0].Notes;
+            TimeSignature ts = Composition.TimeSignatures[0];
+
+            Dictionary<Note, int> dic = new Dictionary<Note,int>();
+
+            int bar = 1;
+            foreach (var note in Notes)
+            {
+
+                Fraction fr = note.Onset + note.Duration;
+                double div = (fr / ts.Fraction).ToDouble();
+
+                if (div > bar)
+                {
+                    bar += 1;
+                }
+                dic.Add(note,bar);
+            }
+
+            for (int i = dic.Values.First(); i <= dic.Values.Last(); i++)
+            {
+                List<Note> n = new List<Note>();
+                Console.WriteLine("#### Takt #" + i);
+                foreach (var item in dic.ToList().Where(x => x.Value == i))
+                {
+                    n.Add(item.Key);
+                }
+                List<int> notesCounter = CountNotes(n, Temperament.Default);
+                Dictionary<int, int> noteList = FillNoteList(notesCounter);
+                PrintNotesAbsoluteFrequency(noteList);
+                
             }
         }
 
