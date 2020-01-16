@@ -27,10 +27,15 @@ namespace MidiParser
 
         public MidiComposition(string filePath)
         {
-            MidiFile midiFile = MidiFile.Read(filePath);
+            MidiFile midiFile = MidiFile.Read(filePath);           
+            if (midiFile.OriginalFormat != MidiFileFormat.MultiTrack) { 
+                midiFile.Write(filePath, format: MidiFileFormat.MultiTrack, overwriteFile: true);
+                midiFile = MidiFile.Read(filePath);
+            }          
+            Console.WriteLine(midiFile.OriginalFormat);
+            this.midiFormat = midiFile.OriginalFormat.ToString();           
             this.file = midiFile;
-            this.title = "";
-            this.midiFormat = midiFile.OriginalFormat.ToString();
+            this.title = "";       
             this.timeDivision = midiFile.TimeDivision.ToString();
             this.duration = new MidiTime(midiFile.GetDuration(TimeSpanType.Midi).ToString(), midiFile.GetTempoMap());
             this.tracks = new List<MidiTrack>();
@@ -43,11 +48,13 @@ namespace MidiParser
         public MidiComposition(string filePath, string mode)
         {
             CsvConverter csv = new CsvConverter();
-            MidiFileCsvConversionSettings setting = new MidiFileCsvConversionSettings();
-            setting.TimeType = TimeSpanType.Midi;
-            setting.NoteLengthType = TimeSpanType.Musical;
-            setting.NoteFormat = NoteFormat.Note;
-            setting.NoteNumberFormat = NoteNumberFormat.Letter;
+            MidiFileCsvConversionSettings setting = new MidiFileCsvConversionSettings
+            {
+                TimeType = TimeSpanType.Midi,
+                NoteLengthType = TimeSpanType.Musical,
+                NoteFormat = NoteFormat.Note,
+                NoteNumberFormat = NoteNumberFormat.Letter
+            };
             MidiFile midiFile = csv.ConvertCsvToMidiFile(filePath, setting);
             this.file = midiFile;
             this.title = "";

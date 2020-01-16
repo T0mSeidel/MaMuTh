@@ -1,4 +1,4 @@
-﻿using Melanchall.DryWetMidi.Smf;
+using Melanchall.DryWetMidi.Smf;
 using Melanchall.DryWetMidi.Smf.Interaction;
 using System;
 using System.Collections.Generic;
@@ -25,6 +25,10 @@ namespace MidiParser
             this.instrument = new MidiInstrument(0, 0);
             parseEvents(track.GetTimedEvents(), tempoMap);
             parseNotes(track.GetNotes(), tempoMap);
+            if (timeSignatures.Count == 0) // default value if timesignature doesnt exist in midi
+            {
+                timeSignatures.Add(new MidiTimeSignature(0, "4/4", " 24 clocks/click", " 8 /32nd/beat", tempoMap));
+            }
 
         }
 
@@ -45,7 +49,7 @@ namespace MidiParser
                 else if (str.Contains("Program Change"))
                 {
                     this.instrument = parseInstrument(str);
-                   
+
                 }
                 else if (str.Contains("Pitch Bend"))
                 {
@@ -69,9 +73,9 @@ namespace MidiParser
 
         private MidiInstrument parseInstrument(string eventString)
         {
-              int channelNr = Int32.Parse(eventString.Split('[').Last().Split(']').First());
-              int nr = Int32.Parse(parseEventValue(eventString));              
-            
+            int channelNr = Int32.Parse(eventString.Split('[').Last().Split(']').First());
+            int nr = Int32.Parse(parseEventValue(eventString));
+
             return new MidiInstrument(nr, channelNr);
         }
 
