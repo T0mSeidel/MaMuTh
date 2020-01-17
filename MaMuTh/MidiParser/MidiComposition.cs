@@ -32,7 +32,6 @@ namespace MidiParser
                 midiFile.Write(filePath, format: MidiFileFormat.MultiTrack, overwriteFile: true);
                 midiFile = MidiFile.Read(filePath);
             }          
-            Console.WriteLine(midiFile.OriginalFormat);
             this.midiFormat = midiFile.OriginalFormat.ToString();           
             this.file = midiFile;
             this.title = "";       
