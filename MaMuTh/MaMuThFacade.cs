@@ -47,7 +47,7 @@ namespace MaMuTh
 			{
 				foreach( Note note in instrument.Notes )
 				{
-					note.EulerPoint.P -= (int)OriginNote;
+					note.EulerPoint.P.Numerator -= (int)OriginNote;
 				}
 			}
 		}
@@ -252,7 +252,26 @@ namespace MaMuTh
 			return null;
 		}
 
-        public void FindScales(string scaletyp = "all", string customScale = "none", int top = 20, int percent = 50)
+		public double GetTotalLength()
+		{
+			double totalDuration = 0;
+
+			foreach( Instrument instrument in Composition.Instruments )
+			{
+				foreach( Note note in instrument.Notes )
+				{
+					double currentValue = ( note.Onset + note.Duration ).ToDouble();
+					if( currentValue > totalDuration )
+					{
+						totalDuration = currentValue;
+					}
+				}
+			}
+
+			return totalDuration;
+		}
+
+		public void FindScales(string scaletyp = "all", string customScale = "none", int top = 20, int percent = 50)
         {          
             for (int i = 0; i < Composition.Instruments.Count; i++)
             {

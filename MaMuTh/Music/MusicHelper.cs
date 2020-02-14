@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaMuTh.Music
 {
-	class MusicHelper
+	public class MusicHelper
 	{
 		public static long MinorThird = 3;
 		public static long MajorThird = 4;
