@@ -105,6 +105,11 @@ namespace MaMuTh
 				return Triads;
 			}
 
+			if( type == TriadType.AllRealTriads )
+			{
+				return Triads.Where( t => t.triadType != TriadType.NoTriad ).ToList();
+			}
+
 			return Triads.Where( t => t.triadType == type ).ToList();
 		}
 

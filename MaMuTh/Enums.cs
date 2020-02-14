@@ -34,7 +34,8 @@ namespace MaMuTh
 		DiminishedTriad = 2, //verminderter Dreiklang
 		AugmentedTriad = 3, //übermäßiger Dreiklang
 		AllTriads = 4,
-		NoTriad = 5
+		NoTriad = 5,
+		AllRealTriads = 6
 	}
 
 	public enum TriadInversion

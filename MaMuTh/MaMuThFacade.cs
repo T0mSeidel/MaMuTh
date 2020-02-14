@@ -39,6 +39,20 @@ namespace MaMuTh
 		}
 
 		//## Methods - Setting
+
+		//Note passed will be Origin of Euler Coordinates - Default is A - (0,0,0) = Note A
+		public void SetEulerPointOriginToSpecificNote( Notes OriginNote )
+		{
+			foreach( Instrument instrument in Composition.Instruments )
+			{
+				foreach( Note note in instrument.Notes )
+				{
+					note.EulerPoint.P -= (int)OriginNote;
+				}
+			}
+		}
+
+
 		//## Methods - Help
 		private List<Instrument> GetInstrumentsAndNotes( MusicDataObject.MusicDataObject musicDataObject )
 		{
