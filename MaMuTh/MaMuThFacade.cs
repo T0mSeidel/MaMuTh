@@ -28,6 +28,7 @@ namespace MaMuTh
 		//### Methods
 		public void CreateComposition(MusicDataObject.MusicDataObject musicDataObject)
 		{
+			//Methode erstellt eine Komposition
 			Temperament temperament = GetTemperament( musicDataObject.Temperament );
 			List<TempoIndication> tempi = GetTempi( musicDataObject.TempoIndications );
 			List<TimeSignature> timeSignatures = GetTimeSignatures( musicDataObject.TimeSignatures );
@@ -39,10 +40,9 @@ namespace MaMuTh
 		}
 
 		//## Methods - Setting
-
-		//Note passed will be Origin of Euler Coordinates - Default is A - (0,0,0) = Note A
 		public void SetEulerPointOriginToSpecificNote( Notes OriginNote )
 		{
+			//Note passed will be Origin of Euler Coordinates - Default is A - (0,0,0) = Note A
 			foreach( Instrument instrument in Composition.Instruments )
 			{
 				foreach( Note note in instrument.Notes )
@@ -56,6 +56,7 @@ namespace MaMuTh
 		//## Methods - Help
 		private List<Instrument> GetInstrumentsAndNotes( MusicDataObject.MusicDataObject musicDataObject )
 		{
+			//Hilfsmethode zum Erstellen einer Composition
 			List<Instrument> instruments = new List<Instrument>();
 
 			foreach(Channel channel in musicDataObject.Channels )
@@ -70,6 +71,7 @@ namespace MaMuTh
 
 		private List<Note> GetNotes( List<NoteData> notesMDO )
 		{
+			//Hilfsmethode zum Erstellen einer Composition
 			List<Note> Notes = new List<Note>();
 			foreach(NoteData noteMDO in notesMDO )
 			{
@@ -82,6 +84,7 @@ namespace MaMuTh
 
 		private List<TimeSignature> GetTimeSignatures( List<TimeSignatureMDO> timeSignaturesMDO )
 		{
+			//Hilfsmethode zum Erstellen einer Composition
 			List<TimeSignature> timeSignatures = new List<TimeSignature>();
 
 			foreach(TimeSignatureMDO timeSignatureMDO in timeSignaturesMDO )
@@ -96,6 +99,7 @@ namespace MaMuTh
 
 		private List<TempoIndication> GetTempi( List<TempoIndicationMDO> tempoIndicationsMDO )
 		{
+			//Hilfsmethode zum Erstellen einer Composition
 			List<TempoIndication> tempi = new List<TempoIndication>();
 
 			foreach(TempoIndicationMDO tempoMDO in tempoIndicationsMDO )
@@ -109,6 +113,7 @@ namespace MaMuTh
 
 		private Temperament GetTemperament( TemperamentDataObject temperament )
 		{
+			//Hilfsmethode zum Erstellen einer Composition
 			if( temperament == MusicDataObject.TemperamentDataObject.EqualTemperament )
 				return Temperament.EqualTemperament;
 			if( temperament == MusicDataObject.TemperamentDataObject.JustIntonation )
@@ -174,6 +179,7 @@ namespace MaMuTh
 
 		public void PrintTriads()
 		{
+			//Write all triad information to console
 			foreach(Instrument instrument in Composition.Instruments )
 			{
 				Console.WriteLine( "#################" );
@@ -186,6 +192,7 @@ namespace MaMuTh
 		//###Methods Calculating
 		public void TransposeComposition(EulerPoint ToAdd )
 		{
+			//method to transpose all notes by the passed value
 			foreach(Instrument instrument in Composition.Instruments )
 			{
 				foreach(Note note in instrument.Notes )
@@ -198,6 +205,7 @@ namespace MaMuTh
 		//###Methods Analysing
 		public void InitializeTriads()
 		{
+			//find triads for each instrument
 			foreach(Instrument instrument in Composition.Instruments )
 			{
 				instrument.InitializeTriads();
@@ -206,6 +214,9 @@ namespace MaMuTh
 
 		public List<Triad> GetTriadsOfInstrument(TriadType type, int indexOfInstrument)
 		{
+			//Get triads of an instrument returned
+			//Param "type" - enum that declares what kind of triads shall be returned
+			//Param "indexOfInstrument" - index of wanted instrument
 			if (Composition.Instruments[indexOfInstrument] != null)
 				return Composition.Instruments[indexOfInstrument].GetTriads(type);
 			else
@@ -214,6 +225,9 @@ namespace MaMuTh
 
 		public List<Triad> GetTriadsOfInstrument(TriadType type, string nameOfInstrument)
 		{
+			//Get triads of an instrument returned
+			//Param "type" - enum that declares what kind of triads shall be returned
+			//Param "nameOfInstrument" - name of wanted instrument
 			Instrument instrument;
 			try
 			{
@@ -234,6 +248,10 @@ namespace MaMuTh
 
 		public List<Triad> GetTriadsOfInstrument(TriadType type, string nameOfInstrument, int indexOfInstrument)
 		{
+			//Get triads of an instrument returned
+			//Param "type" - enum that declares what kind of triads shall be returned
+			//Param "nameOfInstrument" - name of wanted instrument
+			//Param "indexOfInstrument" - in case that multiple instrument share a name an index can be passed to specify the selection
 			Instrument instrument;
 			try
 			{
@@ -254,6 +272,7 @@ namespace MaMuTh
 
 		public double GetTotalLength()
 		{
+			//Gets the total Length of the music piece
 			double totalDuration = 0;
 
 			foreach( Instrument instrument in Composition.Instruments )

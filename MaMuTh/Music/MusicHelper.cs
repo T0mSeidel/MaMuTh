@@ -8,6 +8,7 @@ namespace MaMuTh.Music
 {
 	public class MusicHelper
 	{
+		//interval desriptions and values
 		public static long MinorThird = 3;
 		public static long MajorThird = 4;
 		public static long Fourth = 5;
@@ -18,6 +19,8 @@ namespace MaMuTh.Music
 
 		public static long ReduceToPitchClass(long Numerator, long ReductionClass)
 		{
+			//Reduce the total note value to a note between c and h
+
 			long pitchClass = Numerator % ReductionClass; //z.B. wird hier ein c' (=13) % 13 gerechnet und Resulatat = 0 (Was ebenfalls ein c ist)
 
 			if(pitchClass < 0 )

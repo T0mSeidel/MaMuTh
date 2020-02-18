@@ -8,10 +8,16 @@ using Mehroz;
 
 namespace MaMuTh.Math
 {
+	//Wanted Module: EulerModule
+	//Euler Module inherit structure of "ModuleStructure"
+	//"ModuleStructure" needs a Template class
+	//"ModuleStructure<EulerPoint>"
+
 	class EulerModule : ModuleStructure<EulerPoint>
 	{
 		private EulerModule() {   /*No instance of moduleStructure wanted*/ }
 
+		//Overwrite exisiting Methods with the keyword "new"
 		new static public EulerPoint Add( EulerPoint summand, EulerPoint summand2 )
 		{
 			Fraction P, S, R;

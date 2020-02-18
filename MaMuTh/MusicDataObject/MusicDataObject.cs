@@ -8,6 +8,14 @@ namespace MaMuTh.MusicDataObject
 {
 	public class MusicDataObject
 	{
+		//MusicDataObject (MDO) is a data object for communication between different applications
+		//look at FuE Doku 2019
+
+		//Example: 
+		//Midi parser generates an MDO
+		//Facade needs an MDO to generate an Composition
+	
+
 		public TemperamentDataObject Temperament;
 		public int BaseFrequency;
 		public List<TimeSignatureMDO> TimeSignatures;

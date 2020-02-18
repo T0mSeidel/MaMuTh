@@ -12,7 +12,6 @@ namespace MaMuTh
 	{
 		public string Name { get; set; }
 		public List<Note> Notes { get; set; }
-
 		public List<Triad> Triads { get; private set; }
 
 		public Instrument(string name, List<Note> notes)
@@ -33,6 +32,7 @@ namespace MaMuTh
 
 		public void PrintInstrumentInformation()
 		{
+			//Print note information to console
 			Console.WriteLine( "> Name: " + Name );
 			Console.WriteLine( " Note count: " + Notes.Count );
 			for(int i=0; i<Notes.Count; i++ )
@@ -44,6 +44,7 @@ namespace MaMuTh
 
 		public void PrintTriadInformation()
 		{
+			//print triad information to console
 			for(int i=0; i< Triads.Count; i++ )
 			{
 				Console.WriteLine( "Triad #" + i.ToString() );
@@ -55,6 +56,8 @@ namespace MaMuTh
 
 		private void SearchForTriads() //TODO Verbessern damit garantiert nichts geskippt wird
 		{
+			//Search for triads in all notes of instrument
+
 			IEnumerable<Note> notesWithSameOnset;
 			List<Note> notesWithSameOnsetList;
 			Note previousNote;
@@ -88,6 +91,8 @@ namespace MaMuTh
 
 		public void InitializeTriads()
 		{
+			//InitializeTriads searches for all triads in instrument
+			//ClassifyTriadsZ12
 			SearchForTriads(); //all "triads" with same onset
 			ClassifiyTriadsZ12(); //setze die Klasse des Dreiklangs
 		}
@@ -115,28 +120,40 @@ namespace MaMuTh
 
 		private void ClassifiyTriadsZ12() //in einzelne Methoden für major, minor, ... und dann gleich Umkehrungen checken
 		{
+			//Classifying found triads
+			//method specifiy for z12
+			//z12... only one coordinate in eulermodule used
+			//z12... results in Notes (c,cis,d,dis,e,f,fis,g,gis,a,b,h)
+
 			foreach(Triad triad in Triads )
 			{
+				//assign a triad type for each triad
 				triad.triadType = TriadType.NoTriad; //Reset TriadType
 				ClassifyMajorTriadsZ12( triad );
 				ClassifyMinorTriadsZ12( triad );
 				ClassifyAugmentedTriadsZ12( triad );
 				ClassifyDiminishedTriadsZ12( triad );
+				//in case that no "Classify-" Mehtod changes the type of triad it stays as "NoTriad"
 			}
 		}
 
 		private void ClassifyDiminishedTriadsZ12( Triad triad )
 		{
+			//Reduce note value to pitch class
 			long firstNotePitchClass = MusicHelper.ReduceToPitchClass( triad.FirstNote.EulerPoint.P.Numerator, 12 );
 			long secondNotePitchClass = MusicHelper.ReduceToPitchClass( triad.SecondNote.EulerPoint.P.Numerator, 12 );
 			long thirdNotePitchClass = MusicHelper.ReduceToPitchClass( triad.ThirdNote.EulerPoint.P.Numerator, 12 );
 
 			if( triad.triadType == TriadType.NoTriad ) //Abbrechen wenn Dreiklangtyp gefunden wurde
 			{
+				//Calculate difference between notes
 				long lowerInterval = secondNotePitchClass - firstNotePitchClass;
 				lowerInterval = MusicHelper.ReduceToPitchClass( lowerInterval, 12 );
 				long upperInterval = thirdNotePitchClass - secondNotePitchClass;
 				upperInterval = MusicHelper.ReduceToPitchClass( upperInterval, 12 );
+
+				//check if difference between notes (interval) equals the intervals for diminished triads
+				//all options need to be tested
 
 				CheckIfExpectedEqualsValueAndSetType( MusicHelper.MinorThird, lowerInterval, MusicHelper.MinorThird, upperInterval, TriadType.DiminishedTriad, TriadInversion.NoInversion, FundamentalTone.Default, triad );
 				//CheckIfExpectedEqualsValueAndSetType( MusicHelper.MinorThird, lowerInterval, MusicHelper.MinorThird, upperInterval, TriadType.AugmentedTriad, TriadInversion.FirstInversion, triad );
@@ -237,9 +254,10 @@ namespace MaMuTh
 			FundamentalTone fundamentalToneToSet,
 			Triad triad)
 		{
-
+			//if lower interval equals the ecpected lower interval AND if upper interval equals the exepected upper interval
 			if( lowerIntervalExpected == lowerIntervalValue && upperIntervalExpected == upperIntervalValue )
 			{
+				//set triad type, fundamental tone and inversion
 				triad.triadType = triadTypeToSet;
 				triad.FundamentalTone = fundamentalToneToSet;
 				triad.triadInversion = triadInversionToSet;

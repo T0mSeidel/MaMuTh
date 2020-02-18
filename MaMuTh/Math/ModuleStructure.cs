@@ -9,6 +9,10 @@ namespace MaMuTh.Math
 {
 	class ModuleStructure<T>
 	{
+		//Modules inherit the structure of the class "ModuleStructure"
+		//ModuleStructure needs a Class as TemplateInput
+		//Methods can be overwritten afterwards
+
 		protected ModuleStructure()
 		{
 			//No instance of moduleStructure wanted

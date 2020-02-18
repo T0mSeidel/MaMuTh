@@ -52,6 +52,7 @@ namespace MaMuTh.Music
 
 		public void PrintTriadInformation()
 		{
+			//Print triad information to console
 			Console.WriteLine( "----------" );
 			FirstNote.PrintNoteInformation();
 			SecondNote.PrintNoteInformation();
@@ -71,6 +72,7 @@ namespace MaMuTh.Music
 
 		public Note GetFundamentalTone()
 		{
+			//Return the fundamental tone of triad
 			if( FundamentalTone == FundamentalTone.FirstNote )
 			{
 				return FirstNote;

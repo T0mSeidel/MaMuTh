@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace MaMuTh
 {
+	
 	public enum Temperament
 	{
+		//Temperament of composition
 		Default = 0,
 		WellTemperament = 1,
 		JustIntonation = 2,
@@ -17,6 +19,7 @@ namespace MaMuTh
 
 	public enum Dynamics
 	{
+		//dynamic mark
 		pianississimo = 0,
 		pianissimo = 1,
 		piano = 2,
@@ -29,13 +32,13 @@ namespace MaMuTh
 
 	public enum TriadType
 	{
-		MajorTriad = 0,
-		MinorTriad = 1,
+		MajorTriad = 0, //Dur
+		MinorTriad = 1, //Moll
 		DiminishedTriad = 2, //verminderter Dreiklang
 		AugmentedTriad = 3, //übermäßiger Dreiklang
-		AllTriads = 4,
-		NoTriad = 5,
-		AllRealTriads = 6
+		AllTriads = 4, //Alle Dreiklänge
+		NoTriad = 5, //alle Dreiklänge, die nur drei gleichzeitige Noten sind
+		AllRealTriads = 6 //alle Dreiklänge, die mehr als drei gleichzeitige Noten sind
 	}
 
 	public enum TriadInversion
@@ -50,6 +53,8 @@ namespace MaMuTh
 
 	public enum FundamentalTone
 	{
+		//Declarates which note of triad the fundamental tone is
+		//Gibt an welche Note des Dreiklangs der Grundton ist
 		Default = 0,
 		FirstNote = 1,
 		SecondNote = 2,

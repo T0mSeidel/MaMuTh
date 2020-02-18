@@ -28,6 +28,7 @@ namespace MaMuTh
 			InitializeModuleData( exponents );
 		}
 
+		//Set instrument on which the note is played
 		internal void SetInstrument( Instrument instrument )
 		{
 			if(instrument != null)
@@ -38,8 +39,10 @@ namespace MaMuTh
 			}
 		}
 
+
 		private void InitializeModuleData( Fraction[] exponents )
 		{
+			//Initialize eulerpoints depending on the number of exponents
 			//EulerPoint init
 			switch( exponents.Length )
 			{
@@ -57,6 +60,7 @@ namespace MaMuTh
 		//### Information
 		public void PrintNoteInformation()
 		{
+			//Print Note Information to Console
 			Console.WriteLine( "Onset: " + Onset.ToString() +
 				" Duration: " + Duration.ToString() +
 				" Dynamics: " + Dynamics.ToString() );
